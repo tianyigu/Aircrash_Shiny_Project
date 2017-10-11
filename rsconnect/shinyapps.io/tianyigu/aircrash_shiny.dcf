@@ -1,0 +1,12 @@
+name: aircrash_shiny
+title: aircrash_shiny
+username:
+account: tianyigu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 224117
+bundleId: 1021621
+url: https://tianyigu.shinyapps.io/aircrash_shiny/
+when: 1507735481.90094
+asMultiple: FALSE
+asStatic: FALSE

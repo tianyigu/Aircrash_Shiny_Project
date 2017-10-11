@@ -9,20 +9,23 @@ shinyUI(
                       background-size: 100% auto;background-repeat: no-repeat
                       }"))),
              title = "Aircrash Insight", 
+             
     id ="main",
     
     theme = shinytheme("slate"), 
-    tabPanel("HOME",
+    tabPanel("Home",
              class="my_style_1",
              fluidPage(
                fluidRow(
                  column(8,
                         "" ),
-                 column(4,
+                 column(3,
                         br(),
                         br(),
                         br(),
-                        h1("Aircrash Insight"))
+                        h1("Aircrash Insight"),br(),
+                        h4("If you can walk away from a landing, it's a good landing. If you use the airplane the next day, it's an outstanding landing."),
+                        h4("--Chuck Yeager"))
                  
                ),
                fluidRow(
@@ -31,21 +34,21 @@ shinyUI(
                
                
              )),
-    tabPanel("TIMELINE",
+    tabPanel("Time Line",
              fluidRow(
                column(8,plotOutput('year')),
-               column(4,br(),br(),br(),p(paste("There should be some description of plot")))
+               column(4,br(),br(),br(),h5("Overview of number of air crash over year "))
              ),
              fluidRow(
-               column(4,br(),br(),br(),p(paste("There should be some description of plot"))),
+               column(4,br(),br(),br(),h5("After 1970, total amount of people die from air crash is decreasing. The death ratio went down from over 90% to around 65%.")),
                column(8,plotOutput('groyear'))
              ),
              fluidRow(
                column(8,plotOutput('grotime')),
-               column(4,br(),br(),br(),p(paste("There should be some description of plot")))
+               column(4,br(),br(),br(),h5("Number of aircrash are distinguish by day and night. Death ratio during night is higher than during day"))
              )),
                             
-    tabPanel("TYPE OF CRASHED FLIGHT",              
+    tabPanel("Type of crashed airplane",              
               fluidRow(
                 
                 column(3,br(),br(),br(),p(paste(""))),
@@ -72,7 +75,7 @@ shinyUI(
     
       )),
     
-    tabPanel("AIRLINES",              
+    tabPanel("Airlines",              
              fluidRow(
                plotlyOutput(outputId = "operate", width=1200, height =800),br(),
            
@@ -92,11 +95,15 @@ shinyUI(
     
     
     ))
-  ))
+  ),
+    tabPanel("Data", 
+             fluidRow(
+               column(12,
+                      dataTableOutput('table'))))
+  )
   )
   
-  
-      
+
 
 
 

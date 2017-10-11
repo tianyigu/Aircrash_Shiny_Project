@@ -21,7 +21,7 @@ shinyServer(function(input, output) ({
   }, height = 350)
   #############page3##############
   output$grosize = renderPlot({ggplot(grosize, aes(x=reorder(gr,X) , y=Ratio)) + 
-      geom_area(aes(group = 1),fill="#CF9CF2", alpha=.2,color = "#CF9CF2")+theme(axis.text.x = element_text(angle=45))+style+ggtitle("Aircraft size VS deatb ratio")+labs(x = "Number of People Aboard (flight size)", y = "Death_ratio")},height = 250)
+      geom_area(aes(group = 1),fill="#CF9CF2", alpha=.2,color = "#CF9CF2")+theme(axis.text.x = element_text(angle=45))+style+ggtitle("Aircraft size VS death ratio")+labs(x = "Number of People Aboard (flight size)", y = "Death_ratio")},height = 250)
 
   #####reactive#####
   graph1df <- reactive({
@@ -54,7 +54,7 @@ shinyServer(function(input, output) ({
   ####graph#####
   output$graph1 <- renderPlot({ggplot(graph1df(),aes(x = reorder(Type, -count1) , y=count1,fill = factor(Type))) + 
       geom_bar(stat = "identity" ,size = 0,alpha = 0.7)+ 
-      style+theme(axis.text.x = element_text(angle=30,size = 7))+labs(x = "Flight Type", y = "Aircash Count",title="Aircrash count by flight type")})
+      style+theme(axis.text.x = element_text(angle=30,size = 7))+labs(x = "Airplane Model", y = "Aircash Count",title="Aircrash count by airplane model")})
   output$graph2 <- renderPlot({ggplot(graph2df(), aes(Date, colour=made, fill=made))+ geom_area(stat = "bin",alpha=0.55)+style+labs(x = "Years", y = "Aircrash Count",title = "Area map of aircrash count by major aircraft manufacturer in history")
     
   })
@@ -64,13 +64,15 @@ shinyServer(function(input, output) ({
       geom_bar(stat = "identity" ,  size = 0,alpha = 0.7)+ 
       style+theme(axis.text.x = element_text(angle=30,size = 7))+labs(x = "Airlines", y = "Aircrash Count",title = "Aircrash count by Airline in history")})
   
-  
+  #######PAGE5#########
+  output$table = renderDataTable(data)
+      
   
   
   
   
 
-}
-)
 
-)
+
+
+}))

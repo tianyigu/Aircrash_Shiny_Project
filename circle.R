@@ -119,7 +119,7 @@ for(ctr in 1:nrow(df)){
                                         textangle = textangle,
                                         xanchor = xanchor,
                                         yanchor = yanchor,
-                                        font = list(family = "serif", size = 5,color = "#989898"),
+                                        font = list(family = "serif", size = 6,color = "#989898"),
                                         borderpad = 0,
                                         borderwidth = 0)
   theta <- theta + dtheta
