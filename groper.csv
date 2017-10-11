@@ -1,0 +1,2475 @@
+"","Operator","count","Fatal","Ratio"
+"1","Aeroflot",179,7156,0.806764374295378
+"2","Military - U.S. Air Force",176,3717,0.825633051976899
+"3","Air France",67,1729,0.601600556715379
+"4","Deutsche Lufthansa",65,396,0.776470588235294
+"5","Air Taxi",44,161,0.914772727272727
+"6","United Air Lines",44,1021,0.415040650406504
+"7","Military - U.S. Army Air Forces",43,1070,0.972727272727273
+"8","Pan American World Airways",40,1301,0.462660028449502
+"9","China National Aviation Corporation",37,322,0.86096256684492
+"10","American Airlines",36,1421,0.688802714493456
+"11","Military - Royal Air Force",36,525,0.945945945945946
+"12","Military - U.S. Navy",36,767,0.901292596944771
+"13","US Aerial Mail Service",36,40,0.930232558139535
+"14","Indian Airlines",34,863,0.593943565037853
+"15","Philippine Air Lines",33,455,0.265771028037383
+"16","KLM Royal Dutch Airlines",32,615,0.822192513368984
+"17","Private",31,123,0.866197183098592
+"18","Aeropostale",26,52,0.88135593220339
+"19","British Overseas Airways",25,506,0.66754617414248
+"20","Eastern Air Lines",25,710,0.522058823529412
+"21","Northwest Orient Airlines",25,531,0.816923076923077
+"22","AVIANCA",24,941,0.881911902530459
+"23","Sabena",24,401,0.815040650406504
+"24","Military - U.S. Army",23,498,0.769706336939722
+"25","Imperial Airways",22,185,0.680147058823529
+"26","Military -Royal Air Force",22,524,0.986817325800377
+"27","Garuda Indonesia Airlines",19,574,0.476744186046512
+"28","British European Airways",18,512,0.881239242685026
+"29","Trans Continental and Western Air",18,142,0.775956284153005
+"30","VASP",18,378,0.573596358118361
+"31","Trans World Airlines",17,784,0.49714648065948
+"32","Ceskoslovenske Aerolinie",16,516,0.840390879478827
+"33","Merpati Nusantara Airlines",16,268,0.708994708994709
+"34","Military - Indian Air Force",16,442,0.995495495495496
+"35","Varig",16,417,0.642526964560863
+"36","Cubana de Aviacion",15,486,0.837931034482759
+"37","Linea Aeropostal Venezolana",15,313,0.841397849462366
+"38","Military - Afghan Republican Air Force",15,578,1
+"39","Military - German Navy",15,313,0.92330383480826
+"40","Pakistan International Airlines",15,693,0.877215189873418
+"41","China Airlines (Taiwan)",14,847,0.532704402515723
+"42","Cruzeiro",14,213,0.676190476190476
+"43","Military - Russian Air Force",14,797,0.96256038647343
+"44","Turkish Airlines (THY)",14,891,0.924273858921162
+"45","Ethiopian Airlines",13,223,0.547911547911548
+"46","Military - U.S. Marine Corps",13,362,0.859857482185273
+"47","Qantas",13,89,0.717741935483871
+"48","Aerolineas Argentinas",12,340,0.772727272727273
+"49","Delta Air Lines",12,299,0.517301038062284
+"50","Iberia Airlines",12,483,0.909604519774011
+"51","LOT Polish Airlines",12,417,0.834
+"52","Panair do Brasil",12,266,0.917241379310345
+"53","Tarom",12,194,0.518716577540107
+"54","Air America",11,116,0.720496894409938
+"55","Air Vietnam (South Vietnam)",11,434,0.842718446601942
+"56","Burma Airways",11,250,0.819672131147541
+"57","Commercial Air Taxi",11,33,0.970588235294118
+"58","Flying Tiger Line",11,174,0.756521739130435
+"59","Mexicana",11,290,0.714285714285714
+"60","Military - Royal Australian Air Force",11,185,0.973684210526316
+"61","SATENA",11,201,0.934883720930233
+"62","Swissair",11,411,0.730017761989343
+"63","Air India",10,827,0.892125134843581
+"64","Braniff Airlines",10,216,0.821292775665399
+"65","Canadian PacifiAir Lines",10,234,0.659154929577465
+"66","Faucett",10,213,0.930131004366812
+"67","Grands Express Aeriens",10,24,1
+"68","Korean Airlines",10,713,0.492063492063492
+"69","Military - Brazilian Air Force",10,193,0.881278538812785
+"70","TACA",10,95,0.590062111801242
+"71","United Arab Airlines",10,337,0.985380116959064
+"72","Air Union",9,17,0.80952380952381
+"73","Alaska Airlines",9,231,0.767441860465116
+"74","American Airways",9,34,0.944444444444444
+"75","Ariana Afghan Airlines",9,254,0.673740053050398
+"76","Aviaco",9,200,0.881057268722467
+"77","Balkan Bulgarian Airlines",9,346,0.625678119349005
+"78","EgyptAir",9,406,0.812
+"79","Japan Air Lines",9,764,0.69835466179159
+"80","Lloyd Aereo Boliviano",9,281,1
+"81","Military - French Air Force",9,186,0.984126984126984
+"82","Military - Soviet Air Force",9,268,0.996282527881041
+"83","National Air Transport",9,10,1
+"84","Western Airlines",9,135,0.625
+"85","Alitalia",8,458,0.916
+"86","British Airways",8,13,0.0254901960784314
+"87","CAAC",8,251,0.489278752436647
+"88","Capital Airlines",8,187,0.434883720930233
+"89","Continental Airlines",8,83,0.124624624624625
+"90","JAT Yugoslav Airlines",8,136,0.727272727272727
+"91","Kalinga Airlines",8,43,0.977272727272727
+"92","National Airlines",8,164,0.396135265700483
+"93","REAL",8,145,0.674418604651163
+"94","Royal Nepal Airlines",8,102,0.662337662337662
+"95","TAM (Bolivia)",8,156,0.962962962962963
+"96","Varney Air Lines",8,11,1
+"97","Australian National Airways",7,78,0.795918367346939
+"98","Avensa",7,93,0.699248120300752
+"99","Malev Hungarian Airlines",7,227,0.897233201581028
+"100","Military - Angolan Air Force",7,211,0.972350230414747
+"101","Military - Philippine Air Force",7,194,0.950980392156863
+"102","Military - Sri Lanka Air Force",7,273,1
+"103","Misrair",7,78,0.757281553398058
+"104","Talair",7,56,0.64367816091954
+"105","TAME",7,306,0.974522292993631
+"106","Thai Airways",7,358,0.809954751131222
+"107","Trans Canada Air Lines",7,212,0.806083650190114
+"108","Air Canada",6,138,0.388732394366197
+"109","All Nippon Airways",6,224,0.290909090909091
+"110","Allegheny Airlines",6,87,0.416267942583732
+"111","Aviateca",6,145,0.792349726775956
+"112","Boeing Air Transport",6,6,0.666666666666667
+"113","British South American Airways",6,95,0.805084745762712
+"114","CIDNA",6,17,0.944444444444444
+"115","Colonial Air Transport",6,9,0.391304347826087
+"116","Far Eastern Air Transport",6,208,0.709897610921502
+"117","Fuerza Aí©rea del Peru",6,244,0.841379310344828
+"118","Iran Air",6,343,0.812796208530806
+"119","LAN",6,156,0.652719665271967
+"120","Military - Argentine Air Force",6,228,1
+"121","Military - Japan Maritime Self Defense Force",6,69,0.958333333333333
+"122","Military - Pakistan Air Force",6,102,1
+"123","Military - Royal Canadian Air Force",6,89,0.872549019607843
+"124","PacifiAir Transport",6,14,0.875
+"125","Pelita Air Service",6,67,0.827160493827161
+"126","Saudi Arabian Airlines",6,349,0.5453125
+"127","Scandinavian Airlines (SAS)",6,116,0.256637168141593
+"128","Slick Airways",6,16,0.761904761904762
+"129","South African Airways",6,336,0.971098265895954
+"130","Spantax",6,247,0.410981697171381
+"131","TAM (Brazil)",6,310,0.635245901639344
+"132","Aero Transporti Italiani",5,114,0.76510067114094
+"133","Aeronaves de Mexico",5,76,0.424581005586592
+"134","Aigle Azur",5,110,0.94017094017094
+"135","Air Algerie",5,187,0.91219512195122
+"136","Air Orient",5,17,0.739130434782609
+"137","Austral Lineas Aeras (Argentina)",5,224,0.868217054263566
+"138","Cathay PacifiAirways",5,140,0.509090909090909
+"139","Civil Air Transport",5,152,0.684684684684685
+"140","Dirgantara Air Services",5,46,0.793103448275862
+"141","Formosa Airlines",5,53,0.815384615384615
+"142","LANSA",5,141,0.992957746478873
+"143","Linee Aeree Italiane",5,107,0.93859649122807
+"144","Lufthansa",5,146,0.463492063492064
+"145","MIAT - Mongolian Airlines",5,147,0.96078431372549
+"146","Military - Chinese Air Force",5,125,1
+"147","Military - Indonesian Air Force",5,285,0.95
+"148","Military - Iranian Air Force",5,295,1
+"149","Military - Nicaraguan Air Force",5,165,0.964912280701754
+"150","Military - Royal Thai Air Force",5,104,0.945454545454545
+"151","Military - Vietnamese Air Force",5,190,1
+"152","New Zealand National Airways",5,56,0.691358024691358
+"153","Northeast Airlines",5,91,0.4375
+"154","PacifiWestern Airlines",5,59,0.728395061728395
+"155","Pan American Airways",5,33,0.55
+"156","Sudan Airways",5,223,0.507972665148064
+"157","Syndicato Condor",5,36,0.818181818181818
+"158","TAAG Angola Airlines",5,157,0.670940170940171
+"159","Taxi Aereo el Venado",5,128,0.992248062015504
+"160","Transocean Air Lines",5,106,0.576086956521739
+"161","Aero O-Y",4,27,1
+"162","Aeromexico",4,75,0.376884422110553
+"163","Aerosucre Colombia",4,16,0.470588235294118
+"164","Air taxi",4,21,1
+"165","Alia Royal Jordanian Airlines",4,463,0.911417322834646
+"166","American Eagle",4,90,0.909090909090909
+"167","Ameriflight",4,5,1
+"168","Ansett ANA",4,69,0.985714285714286
+"169","Austin Airways",4,19,0.791666666666667
+"170","Bali International Air Service",4,55,0.808823529411765
+"171","Cameroon Airlines",4,78,0.294339622641509
+"172","Central Mountain Air Services",4,22,0.956521739130435
+"173","China Eastern Airlines",4,91,0.208237986270023
+"174","Dan Air Services",4,278,0.902597402597403
+"175","Deccan Airways",4,31,0.688888888888889
+"176","Devlet Hava Yollari",4,39,0.639344262295082
+"177","Fuerza Aí©rea Argentina",4,73,0.695238095238095
+"178","Interflug",4,212,0.677316293929712
+"179","Itavia",4,141,0.972413793103448
+"180","Las Vegas Airlines",4,33,0.942857142857143
+"181","Latecoere Airlines",4,22,1
+"182","Loganair",4,8,0.347826086956522
+"183","Middle East Airlines",4,140,1
+"184","Military - Egyptian Air Force",4,72,0.935064935064935
+"185","Military - Mexican Air Force",4,36,1
+"186","Military - Republiof China Air Force",4,92,1
+"187","Mohawk Airlines",4,71,0.510791366906475
+"188","Myanmar Airways",4,76,0.520547945205479
+"189","Nigeria Airways",4,167,0.531847133757962
+"190","OlympiAirways",4,195,0.924170616113744
+"191","Pan American Grace Airways",4,23,1
+"192","Pennsylvania Central Airlines",4,98,0.924528301886792
+"193","Petroleum Helicopter",4,49,0.96078431372549
+"194","SAETA",4,169,0.994117647058824
+"195","TABA",4,86,0.735042735042735
+"196","Taiwan Airlines",4,29,0.878787878787879
+"197","Trans Mediterranean Airways",4,20,1
+"198","Union of Burma Airways",4,47,0.854545454545454
+"199","USAir",4,198,0.653465346534653
+"200","Wideroe's Flyveselksap",4,63,0.828947368421053
+"201","Zantop Air Transport",4,13,1
+"202","Aaxico Airlines",3,9,1
+"203","AB Aerotransport",3,58,0.90625
+"204","ACES Colombia",3,40,0.975609756097561
+"205","Aer Lingus",3,87,1
+"206","Aeroflot / Aeroflot",3,279,1
+"207","Aerolineas TAO",3,94,0.979166666666667
+"208","Aeronica",3,31,0.911764705882353
+"209","Aeropesca Colombia",3,79,1
+"210","Aerotaca",3,13,0.448275862068966
+"211","Aerovias Brasil",3,60,0.967741935483871
+"212","Air Inter",3,167,0.907608695652174
+"213","Air Littoral",3,21,0.567567567567568
+"214","Air Logistics",3,18,0.857142857142857
+"215","Air Madagascar",3,67,0.917808219178082
+"216","Air Manila",3,61,0.7625
+"217","Air New Zealand",3,261,0.981203007518797
+"218","Ala Littoria",3,48,1
+"219","Ameristar Jet Charter",3,5,0.833333333333333
+"220","AtlantiSoutheast Airlines",3,38,0.666666666666667
+"221","Autrex",3,12,0.444444444444444
+"222","Aviation Charter - Air Taxi",3,12,1
+"223","Avio Linee Italiane",3,46,0.92
+"224","Azerbaijan Airlines",3,31,0.885714285714286
+"225","Bakhtar Afghan Airlines",3,76,0.835164835164835
+"226","BOAC",3,25,0.78125
+"227","Bradley Air Services",3,13,1
+"228","Cambodia Air",3,39,0.661016949152542
+"229","Central African Airways",3,50,0.537634408602151
+"230","Comair",3,86,0.988505747126437
+"231","Continental Air Lines",3,5,1
+"232","Douglas Airways",3,26,0.8125
+"233","Eagle Air",3,10,1
+"234","Eagle Aviation",3,40,0.666666666666667
+"235","El Al",3,68,0.985507246376812
+"236","Flota Aí©rea Mercante Argentina",3,12,0.235294117647059
+"237","Guinea Airways",3,7,0.875
+"238","Holyman Airways",3,18,1
+"239","Icelandair",3,40,0.606060606060606
+"240","Indamer",3,14,1
+"241","Kenai Air Service - Air Taxi",3,8,1
+"242","Lanica",3,20,0.555555555555556
+"243","Lignes Aeriennes Latecoere",3,5,1
+"244","Lloyd Aí©reo Boliviano",3,8,0.228571428571429
+"245","Loide Aí©reo Nacional",3,18,0.225
+"246","MAP",3,27,1
+"247","Maritime Central Airways",3,85,1
+"248","Military - Belgian Air Force",3,85,0.841584158415842
+"249","Military - Chilean Air Force",3,73,0.61864406779661
+"250","Military - Ethiopian Air Force",3,153,0.927272727272727
+"251","Military - French Naval Aviation",3,57,1
+"252","Military - German Army",3,67,0.985294117647059
+"253","Military - Imperial Iranian Air Force",3,50,1
+"254","Military - IslamiRepubliof Iran Air Force",3,109,1
+"255","Military - Italian Air Force",3,66,1
+"256","Military - Peruvian Air Force",3,67,0.87012987012987
+"257","Military - Polish Air Force",3,53,1
+"258","Military - Republiof South Korea Air Force",3,121,1
+"259","Military - South African Air Force",3,52,1
+"260","Military - Sudan Air Force",3,91,0.664233576642336
+"261","Military - Turkish Air Force",3,44,1
+"262","Military - Zairean Air Force",3,87,0.956043956043956
+"263","Milne Bay Air",3,36,0.8
+"264","Missionary Aviation Fellowship",3,36,0.507042253521127
+"265","New York Airways",3,12,0.315789473684211
+"266","Nordeste Linhas Aí©reas",3,16,0.8
+"267","PacifiCoastal Airlines",3,14,0.666666666666667
+"268","Philippine Aerotransport",3,20,0.769230769230769
+"269","Piedmont Airlines",3,64,0.955223880597015
+"270","Prinair",3,32,0.533333333333333
+"271","Sahsa Airlines",3,21,0.291666666666667
+"272","SANSA",3,36,0.878048780487805
+"273","SceniAir Tours",3,23,1
+"274","Scottish Airlines",3,56,0.518518518518518
+"275","SELVA",3,19,1
+"276","Somali Airlines",3,85,0.772727272727273
+"277","Sterling Airways",3,137,0.628440366972477
+"278","Tajikistan Airlines",3,207,0.976415094339623
+"279","TAM Lineas Aí©reas Regional",3,43,0.843137254901961
+"280","Trans Australia Airlines",3,39,0.928571428571429
+"281","Transair Georgia Airlines",3,134,0.708994708994709
+"282","Transamerica Airlines",3,11,1
+"283","Transbrasil",3,67,0.930555555555556
+"284","Trigana Air Service",3,22,1
+"285","Union Aeromaritime de Transport",3,17,0.2
+"286","Union des Transportes Aeriens",3,263,0.992452830188679
+"287","West Coast Airlines",3,25,1
+"288","Western Air Express",3,15,0.652173913043478
+"289","Wiggins Airways",3,4,1
+"290","World Airways",3,88,0.282051282051282
+"291","Yeti Airlines",3,30,0.967741935483871
+"292","A B Aerotransport",2,3,0.176470588235294
+"293","ADC Airlines",2,97,0.60625
+"294","Aden Airways",2,45,1
+"295","ADES Colombia",2,22,0.956521739130435
+"296","Adventure Airlines",2,18,1
+"297","Aerocaribe",2,20,0.512820512820513
+"298","Aerolift",2,16,1
+"299","Aerolineas Abaroa",2,21,1
+"300","Aerolineas Centrales de Colombia",2,45,1
+"301","Aerolineas Flecha Austral",2,8,1
+"302","Aeronorte Colombia",2,6,1
+"303","Aeroperlas",2,30,0.9375
+"304","Aeroperu",2,76,1
+"305","Aerovias Contreras",2,23,1
+"306","Aerovias de Guatemala SA",2,100,1
+"307","Agencia Interamericana de Aviada",2,20,0.714285714285714
+"308","Air Afrique",2,56,0.256880733944954
+"309","Air Atlas",2,9,0.642857142857143
+"310","Air Carriers",2,12,1
+"311","Air Charter",2,14,0.777777777777778
+"312","Air Congo",2,23,0.741935483870968
+"313","Air Express",2,6,1
+"314","Air Fiordland",2,11,1
+"315","Air Freight New Zealand",2,5,1
+"316","Air Guadeloupe",2,28,0.848484848484849
+"317","Air Laos",2,43,0.914893617021277
+"318","Air Mali",2,57,0.982758620689655
+"319","Air Manitoba",2,9,1
+"320","Air Nautic",2,65,1
+"321","Air Rhodesia",2,97,0.843478260869565
+"322","Air Taxi - Basco Flying Service Inc.",2,7,0.777777777777778
+"323","Air Transport",2,33,0.868421052631579
+"324","Airborne Express",2,8,1
+"325","AIRES Colombia",2,27,1
+"326","Airfast Indonesia",2,17,0.85
+"327","Airfast Services",2,37,1
+"328","Airlink",2,28,1
+"329","AirNow",2,2,1
+"330","Airwork",2,9,0.152542372881356
+"331","Alyemda",2,67,0.957142857142857
+"332","Antilles Air",2,7,0.35
+"333","AREA",2,69,1
+"334","Associated Airways",2,3,0.75
+"335","ATI",2,6,0.857142857142857
+"336","Avianca",2,4,1
+"337","Azerbaijani Airlines",2,74,0.725490196078431
+"338","Baron Aviation",2,2,1
+"339","Big Island Airlines",2,11,0.578947368421053
+"340","Boeing Aircraft Company",2,18,1
+"341","Bouraq Indonesia Airlines",2,54,0.666666666666667
+"342","Braathens",2,42,0.736842105263158
+"343","Braniff Airways",2,8,0.666666666666667
+"344","Bristow Helicopters",2,12,0.6
+"345","British Eagle International Airlines",2,131,1
+"346","British Midland Airways",2,119,0.566666666666667
+"347","Capitol Air Service - Air Taxi",2,4,0.8
+"348","Capitol Airways",2,4,1
+"349","Cascade Airways",2,9,0.818181818181818
+"350","Central Air Transport",2,22,0.247191011235955
+"351","Ceskoslovenskí© Aerolinie",2,9,1
+"352","Channel Flying Service - Air Taxi",2,7,1
+"353","Chartair - Air Taxi",2,10,1
+"354","Chicago Southern Airlines",2,24,1
+"355","China Northern Airlines",2,124,0.579439252336449
+"356","China Northwest Airlines",2,215,0.787545787545788
+"357","China Southern Airlines",2,176,0.818604651162791
+"358","China Southwest Airlines",2,169,1
+"359","Colonial Western Airlines",2,17,0.944444444444444
+"360","CORAL Colombia",2,14,0.482758620689655
+"361","Cordova Airlines",2,10,0.909090909090909
+"362","Crossair",2,34,0.790697674418605
+"363","Cruzeiro do Sul",2,11,0.392857142857143
+"364","Cubana de Aviacon",2,17,0.0484330484330484
+"365","Deruluft",2,20,1
+"366","Djibouti Airlines",2,5,0.384615384615385
+"367","Downeast Airlines",2,20,0.769230769230769
+"368","DTA Angola Airlines",2,31,0.911764705882353
+"369","East African Airways",2,63,0.496062992125984
+"370","Eastern Air Transport",2,3,1
+"371","Eastern Provincial Airways",2,9,0.642857142857143
+"372","Emery Worldwide",2,5,1
+"373","Empire Airlines",2,2,1
+"374","Evergreen Helicopter - Air Taxi",2,7,1
+"375","Executive Air - Air Taxi",2,10,1
+"376","Expresso Aí©reo",2,32,0.432432432432432
+"377","Federal Express",2,2,1
+"378","FedEx",2,3,1
+"379","Finnair",2,47,0.959183673469388
+"380","Frontier Airlines",2,7,1
+"381","Frontier Flying Service - Air Taxi",2,7,1
+"382","Galena Air Service - Air Taxi",2,6,0.75
+"383","Gay Airways - Air Taxi",2,4,0.5
+"384","General Airways",2,4,0.137931034482759
+"385","GP Express Airlines",2,5,0.625
+"386","Grand Canyon Airlines",2,16,0.592592592592593
+"387","Gulf Air",2,255,1
+"388","Haí¿ti Air Inter",2,19,1
+"389","Hageland Aviation Services",2,13,1
+"390","Handley Page Transport",2,9,0.692307692307692
+"391","Hunting Air Travel",2,33,0.523809523809524
+"392","Indian National Airlines",2,41,1
+"393","Iran Air Tours",2,146,0.550943396226415
+"394","Iraqi Airways",2,193,0.817796610169492
+"395","Island Air",2,13,0.764705882352941
+"396","Island Airways",2,4,0.285714285714286
+"397","Jamair",2,20,0.645161290322581
+"398","Jett Paqueteria SA",2,5,1
+"399","Juba Air Cargo",2,7,0.583333333333333
+"400","Kamchatavia",2,11,0.423076923076923
+"401","Karibu Airways",2,2,0.0645161290322581
+"402","Kenn Borek Air",2,10,0.833333333333333
+"403","Kenya Airways",2,283,0.965870307167236
+"404","KNILM",2,16,0.761904761904762
+"405","Kodiak Airways",2,6,0.6
+"406","Korean Air",2,7,1
+"407","LAC Colombia",2,11,0.733333333333333
+"408","LADE",2,11,0.785714285714286
+"409","Lao Aviation",2,26,0.742857142857143
+"410","LARES",2,29,0.878787878787879
+"411","Lineas Aí©reas La Urraca",2,18,0.642857142857143
+"412","Lineas Aí©reas Nacionales",2,27,1
+"413","Lineas Aereas Nacionales SA (Peru)",2,190,0.989583333333333
+"414","Loftleidir IcelandiAirlines",2,188,0.704119850187266
+"415","Loide Aereo Nacional",2,46,0.901960784313726
+"416","Los Angeles Airways",2,44,1
+"417","Malaysia Airlines",2,134,0.875816993464052
+"418","Malu Aviation",2,8,0.25
+"419","Mandala Airlines",2,169,0.903743315508021
+"420","Martinair Holland NV",2,247,0.465160075329567
+"421","Merpati Nasantara Airlines",2,18,0.9
+"422","Miami Airlines",2,63,0.777777777777778
+"423","Military - Azerbaijan Air Force",2,87,1
+"424","Military - Bolivian Air Force",2,56,0.933333333333333
+"425","Military - Chilian Air Force",2,20,1
+"426","Military - Colombian Air Force",2,62,1
+"427","Military - Colombian Army",2,26,0.866666666666667
+"428","Military - Congolese Air Force",2,48,0.923076923076923
+"429","Military - Ecuadorean Air Force",2,49,1
+"430","Military - Ecuadorian Air Force",2,12,1
+"431","Military - Georgian Air Force",2,83,1
+"432","Military - Honduran Air Force",2,84,0.848484848484849
+"433","Military - Iranian Revolutionary Guard Corps Air Force",2,49,1
+"434","Military - Mauritanian Air Force",2,51,0.944444444444444
+"435","Military - Mozambique Air Force",2,70,0.886075949367089
+"436","Military - Nigerian Air Force",2,27,0.84375
+"437","Military - Portuguese Air Force",2,37,0.725490196078431
+"438","Military - Royal Belgian Air Force",2,75,0.852272727272727
+"439","Military - Royal British Navy",2,25,0.735294117647059
+"440","Military - Royal Indian Air Force",2,27,1
+"441","Military - Royal Jordanian Air Force",2,26,1
+"442","Military - Royal Nepalese Air Force",2,56,1
+"443","Military - Royal Saudi Air Force",2,187,1
+"444","Military - Spanish Air Force",2,16,0.421052631578947
+"445","Military - U.S. Air Force / Military - U.S. Air Force",2,79,1
+"446","Military - U.S. Air Force / U.S. Air Force",2,28,0.903225806451613
+"447","Military - U.S. Army / Military - U.S. Army",2,44,1
+"448","Military - U.S. Marine Corps/Military - U.S. Marine Corps",2,48,0.786885245901639
+"449","Military - U.S. Navy / Military - U.S. Navy",2,33,0.804878048780488
+"450","Military - Union of Burma Air Force",2,75,0.986842105263158
+"451","Military - United States Army Air Force",2,33,0.66
+"452","Military - United States Navy",2,24,0.96
+"453","Military - Venezuelan Air Force",2,93,1
+"454","Military - Venezuelan Army",2,24,1
+"455","Military - Venezuelan Navy",2,46,0.978723404255319
+"456","Military - Zambian Air Force",2,59,1
+"457","MK Airlines",2,8,0.4
+"458","Mountain Air Cargo",2,2,1
+"459","Munz Northern Airlines",2,4,0.8
+"460","Necon Air",2,19,0.703703703703704
+"461","New Tribes Mission",2,36,1
+"462","Nile Safaris Aviation",2,14,1
+"463","Nordair",2,6,1
+"464","Northeast Jet",2,3,0.75
+"465","Norwegian Airlines",2,54,0.675
+"466","Orient Airways",2,17,0.414634146341463
+"467","PacifiAir Lines",2,45,0.714285714285714
+"468","PacifiSouthwest Airlines",2,46,0.356589147286822
+"469","Pan African Air Charter",2,42,1
+"470","Pan American Grace Airlines",2,17,0.566666666666667
+"471","Panagra",2,14,0.736842105263158
+"472","Paraense Transportes Aí©reos",2,17,1
+"473","PenAir",2,12,1
+"474","Piedmont Airlines / Private",2,86,0.682539682539683
+"475","Pilgrim Airlines",2,6,0.352941176470588
+"476","Pioneer Airlines",2,11,1
+"477","Polynesian Airlines",2,35,0.945945945945946
+"478","Private charter",2,8,1
+"479","Private Charter",2,9,1
+"480","Provincetown - Boston Airlines",2,14,0.736842105263158
+"481","Quebecair",2,21,0.5
+"482","Queen Charlotte Airlines",2,37,0.902439024390244
+"483","Queensland Airlines",2,18,1
+"484","Rapid Air Transport",2,7,1
+"485","Regina Cargo Airlines",2,22,0.956521739130435
+"486","Riddle Airlines",2,4,1
+"487","Royal Air Lao",2,60,1
+"488","Royal Air Maroc",2,105,0.833333333333333
+"489","Ryan Air Services",2,26,0.896551724137931
+"490","Sabah Air",2,22,1
+"491","Sabang Merauke Raya Air Charter",2,11,0.458333333333333
+"492","Saha Airline Services",2,42,0.201923076923077
+"493","Sakha Airlines",2,37,1
+"494","Salair",2,4,1
+"495","SAM Colombia",2,178,1
+"496","Sasco Air Lines",2,24,1
+"497","SATA",2,71,0.771739130434783
+"498","SATCO",2,7,0.241379310344828
+"499","Saturn Airways",2,6,1
+"500","Savanair",2,7,0.291666666666667
+"501","SAVCO",2,13,1
+"502","SCADTA",2,5,1
+"503","SceniAirlines",2,17,1
+"504","Scibe Airlift Cargo Zaire",2,39,1
+"505","Service Air",2,10,1
+"506","Servivensa",2,8,0.222222222222222
+"507","Sibir Airlines",2,124,1
+"508","Singapore Airlines",2,85,0.469613259668508
+"509","Skyline Airways",2,14,1
+"510","Skypower Express Airways",2,6,0.1875
+"511","Skyways of London",2,11,0.174603174603175
+"512","Sobelair SA (Belgium)",2,141,1
+"513","Sociedad Aeronautica Medellin",2,48,1
+"514","Solomon Islands Airlines",2,26,1
+"515","South PacifiIsland Airways",2,11,0.458333333333333
+"516","Southcentral Air",2,7,0.7
+"517","Southern Airways",2,137,0.85625
+"518","Southwest Air",2,16,0.888888888888889
+"519","Southwest Airlines",2,0,0
+"520","Syrian Airways",2,28,0.823529411764706
+"521","TAESA",2,30,1
+"522","TAN",2,130,0.87248322147651
+"523","TAO",2,10,0.833333333333333
+"524","Taxader Airlines",2,44,0.758620689655172
+"525","Telford Aviation",2,9,1
+"526","Tigres Voladores",2,44,1
+"527","Trans Continental Air Transport",2,13,1
+"528","Trans Guyana Airways",2,3,0.375
+"529","Trans Service Airlift",2,144,0.872727272727273
+"530","Trans World Airlines / Private",2,28,0.166666666666667
+"531","Transafrik",2,23,1
+"532","Transasia Airways",2,6,1
+"533","Transportes Aí©reos Mexicanos",2,4,0.8
+"534","Union Airways",2,7,0.777777777777778
+"535","United Air Lines / Trans World Airlines",2,256,1
+"536","United Airways",2,36,1
+"537","Universal Airlines",2,16,0.727272727272727
+"538","Universal Jet Aviation",2,5,1
+"539","Uzbekistan Airways",2,39,0.557142857142857
+"540","ValuJet",2,110,0.63953488372093
+"541","Vanair",2,16,0.761904761904762
+"542","Vayudoot",2,45,1
+"543","Vieques Air Link",2,14,0.736842105263158
+"544","Vietnam Airlines",2,95,0.979381443298969
+"545","VOTEC",2,25,0.892857142857143
+"546","VoteTaxi Aí©reo",2,16,1
+"547","West Caribbean Airways",2,168,0.96551724137931
+"548","Western Canada Airways",2,5,0.833333333333333
+"549","Wien Consolidated Airlines",2,40,0.909090909090909
+"550","Wuhan Airlines",2,58,0.734177215189873
+"551","Yakutavia",2,17,0.586206896551724
+"552","Yemen Airlines",2,13,1
+"553","Yute Air Alaska - Air Taxi",2,5,0.416666666666667
+"554","Aí©reo Ruta Maya",1,11,0.785714285714286
+"555","Aí©rotaxi Cachanilla",1,8,1
+"556","Ababeel Aviaition",1,4,1
+"557","Abakan Airlines",1,3,0.157894736842105
+"558","Aca-Ancargo",1,44,1
+"559","Ace Flying Service",1,2,1
+"560","Acme Air",1,2,1
+"561","Action Air Express Inc. - Air Taxi",1,2,1
+"562","Action Airlines",1,8,0.888888888888889
+"563","Adam Air",1,102,1
+"564","Advance Airlines",1,13,1
+"565","AECA Cargo",1,4,1
+"566","Aegler Stuart Flying Service  / Private",1,4,0.8
+"567","Aer Turas",1,2,1
+"568","Aeralpi",1,4,0.8
+"569","Aerevias Centrales Air Service",1,1,1
+"570","Aerial Transit Company",1,3,1
+"571","Aero Air",1,3,1
+"572","Aero Cargo",1,1,0.0526315789473684
+"573","Aero Club Libya",1,14,1
+"574","Aero Clube de Volta Redonda",1,4,1
+"575","Aero Condor",1,10,1
+"576","Aero Cozumel",1,6,0.315789473684211
+"577","Aero Ejecutivos",1,3,1
+"578","Aero Eslava",1,4,1
+"579","Aero Ferinco Charter",1,19,1
+"580","Aero France",1,11,1
+"581","Aero Holland",1,34,0.971428571428571
+"582","Aero Jet Express",1,4,1
+"583","Aero Lloyd",1,5,1
+"584","Aero Mayflower Transit Co",1,3,1
+"585","Aero National - Air Taxi",1,4,1
+"586","Aero PaLease - Air Taxi",1,2,1
+"587","Aero Pantanal - Air Taxi",1,6,1
+"588","Aero Peru",1,12,0.173913043478261
+"589","Aero Sudpacifico",1,9,1
+"590","Aero Taxis Equatorianos",1,22,0.916666666666667
+"591","Aero Transportes",1,8,1
+"592","Aero Tropical",1,8,1
+"593","Aero-Tropics",1,15,1
+"594","Aerocalifornia",1,21,1
+"595","Aerocaribbean - Charter",1,34,1
+"596","Aerochasqui",1,15,1
+"597","Aerocom",1,7,1
+"598","Aerocondor",1,5,1
+"599","Aerocondor de Colombia",1,17,0.288135593220339
+"600","Aerocontroctors - Charter",1,3,0.6
+"601","Aerocord",1,9,1
+"602","Aerocosta Colombia",1,2,0.5
+"603","Aeroejecutivos Colombia",1,2,0.222222222222222
+"604","Aeroespresso",1,2,0.222222222222222
+"605","Aeroextra",1,3,1
+"606","Aeroflite Services",1,2,1
+"607","Aeroflot / Military - Russian Air Force",1,31,0.96875
+"608","Aeroflot / Soviet Air Force",1,76,1
+"609","Aeroflot /Military - Russian",1,33,1
+"610","Aeroflot Russian International Airways",1,75,1
+"611","Aerogulf",1,7,1
+"612","Aerolatino (Aerocaribe)",1,1,0.0555555555555556
+"613","Aeroleasing - Air Taxi",1,5,1
+"614","Aeroleo Taxi Aereo",1,11,1
+"615","Aerolift Philippines",1,21,1
+"616","Aerolineas Argo",1,5,1
+"617","Aerolineas Condor",1,44,1
+"618","Aerolineas Cuahonte",1,9,1
+"619","Aerolineas El Salvador",1,2,1
+"620","Aerolineas La Gaviola",1,9,1
+"621","Aerolineas La Paz",1,5,1
+"622","Aerolineas Litoral Argentina",1,28,0.933333333333333
+"623","Aerolineas Nacionales",1,60,1
+"624","Aeromexico / Private",1,67,1
+"625","Aeromist-Kharkiv",1,44,1
+"626","Aeronautical Services - Air Taxi",1,3,1
+"627","Aeronaves de Panama",1,6,1
+"628","Aeronaves del Peru",1,3,0.428571428571429
+"629","Aeronor Chile",1,46,1
+"630","Aeronorte",1,9,1
+"631","Aeropeca",1,18,1
+"632","Aeropol",1,3,1
+"633","Aeropostale - La Tecoere Company",1,6,1
+"634","Aeroput",1,8,1
+"635","Aeroservice International",1,2,1
+"636","Aeroservice S de RL",1,6,1
+"637","Aeroservicios Empresariales de Durango",1,16,0.842105263157895
+"638","Aerosweet Airlines (LVOV)",1,70,1
+"639","Aerotaxi Manaus",1,24,0.857142857142857
+"640","Aerotechnia",1,7,1
+"641","Aerotransportes Petroleros",1,3,0.428571428571429
+"642","Aerotuy airline",1,1,0.0909090909090909
+"643","Aerovalles",1,6,1
+"644","Aerovanguardia",1,3,1
+"645","Aerovias Condor",1,2,0.5
+"646","Aerovias Cuba International",1,12,1
+"647","Aerovias del Norte",1,10,1
+"648","Aerovias del Valle",1,10,1
+"649","Aerovias Guest",1,25,1
+"650","Aerovias Halcon",1,1,0.0625
+"651","Aerovias Rojas",1,18,1
+"652","Aerovias Urraca",1,22,0.785714285714286
+"653","Aerovias Venezolanas SA (Venezuela)",1,77,1
+"654","Africa One Congo",1,21,0.954545454545455
+"655","African Air",1,2,0.333333333333333
+"656","African Commuter Services",1,3,0.230769230769231
+"657","Agape Flight Inc.",1,2,0.666666666666667
+"658","Agco Corp",1,5,1
+"659","Agee Flying Service - Air Taxi",1,4,1
+"660","AIDA",1,14,0.875
+"661","Air  Mali",1,47,0.783333333333333
+"662","Air 70",1,10,1
+"663","Air Affaires Gabon",1,12,1
+"664","Air Albatross",1,8,0.888888888888889
+"665","Air Ambulance - Med-Trans Corp.",1,4,0.8
+"666","Air ambulance - Mercy Air Services",1,3,1
+"667","Air Amercia",1,5,1
+"668","Air Angles Inc.",1,4,1
+"669","Air Anguilla",1,11,1
+"670","Air Bissau",1,3,0.230769230769231
+"671","Air Bleu",1,1,0.5
+"672","Air Cameroon",1,4,1
+"673","Air Caraibes",1,19,1
+"674","Air Cargo Carriers",1,3,1
+"675","Air Cargo Express",1,2,1
+"676","Air Carriers Express Services Inc",1,17,1
+"677","Air Central",1,5,1
+"678","Air Chaparral - Air Taxi",1,2,1
+"679","Air Charter - Tanzanian Air Services",1,3,0.5
+"680","Air China",1,128,0.771084337349398
+"681","Air Comores",1,15,0.9375
+"682","Air Continental",1,3,1
+"683","Air East",1,12,0.705882352941177
+"684","Air Ferry",1,2,1
+"685","Air Ferry Ltd",1,88,1
+"686","Air Fiji",1,17,1
+"687","Air Flamence",1,1,1
+"688","Air Florida",1,74,0.936708860759494
+"689","Air Gabon",1,3,1
+"690","Air Gaspí©",1,4,1
+"691","Air Georgian",1,1,1
+"692","Air Global",1,2,1
+"693","Air Guinee",1,15,0.882352941176471
+"694","Air Haiti International",1,3,1
+"695","Air Hawaii",1,5,1
+"696","Air Illinois",1,10,1
+"697","Air Iowa",1,6,1
+"698","Air Ivoire",1,6,1
+"699","Air Ivorie",1,17,1
+"700","Air Jordan",1,10,0.666666666666667
+"701","Air Karibu",1,7,1
+"702","Air Kasai",1,14,1
+"703","Air Lanka",1,22,0.146666666666667
+"704","Air Liberia",1,8,0.888888888888889
+"705","Air Luxor",1,7,1
+"706","Air Malawi",1,10,1
+"707","Air Martinique",1,6,1
+"708","Air Mauritanie",1,80,0.860215053763441
+"709","Air Melanesie",1,1,0.125
+"710","Air Memphis",1,6,1
+"711","Air Methods / ClassiHelicopters",1,6,0.857142857142857
+"712","Air Moorea",1,20,1
+"713","Air New England",1,1,0.1
+"714","Air Niagara",1,2,1
+"715","Air North",1,1,0.333333333333333
+"716","Air North Queensland",1,11,1
+"717","Air Ocean",1,16,1
+"718","Air Ohio - Air Taxi",1,2,1
+"719","Air One Executive",1,2,1
+"720","Air Ontario",1,24,0.347826086956522
+"721","Air Outre-Mer",1,3,1
+"722","Air Outremer",1,18,1
+"723","Air Pennsylvania - Air Taxi",1,3,1
+"724","Air Pereira",1,4,1
+"725","Air Philippines",1,131,1
+"726","Air Rainbow",1,7,0.777777777777778
+"727","Air Reconnaissance Unit of Liberia",1,16,0.888888888888889
+"728","Air Rouergue",1,5,0.833333333333333
+"729","Air Sí£o Tomí©",1,4,1
+"730","Air Saint Maurice Inc.",1,3,0.428571428571429
+"731","Air Satellite",1,7,0.7
+"732","Air Senegal",1,25,0.480769230769231
+"733","Air Senegal / Gambia Airways",1,3,1
+"734","Air Serv Internatiional/CemAir",1,17,1
+"735","Air Service - Air Taxi",1,3,1
+"736","Air Services",1,3,0.6
+"737","Air Sinai",1,37,1
+"738","Air South",1,14,1
+"739","Air St. Martin",1,20,1
+"740","Air Sunshine",1,2,0.2
+"741","Air Tahiti",1,11,0.5
+"742","Air Tahoma",1,3,1
+"743","Air Taroma",1,1,0.5
+"744","Air taxi - Aero Air Taxi",1,4,1
+"745","Air Taxi - Aero West Aviation Inc.",1,5,1
+"746","Air Taxi - Air Grand Canyon Inc.",1,7,1
+"747","Air Taxi - Air Medical Leasing",1,4,1
+"748","Air taxi - Air Safaris Inc.",1,3,1
+"749","Air Taxi - Air Taxi Inc.",1,5,1
+"750","Air Taxi - Air Trends Inc.",1,4,0.8
+"751","Air Taxi - Air Vegas Inc.",1,2,0.4
+"752","Air Taxi - Airis Helicopters Inc.",1,3,1
+"753","Air Taxi - Alpine Aviation",1,3,1
+"754","Air Taxi - Baker Aviation Inc.",1,3,1
+"755","Air Taxi - Bigfoot Air of Alaska, LLC",1,4,1
+"756","Air Taxi - Bohemia Inc.",1,3,1
+"757","Air Taxi - Centre Airlines Inc.",1,2,0.4
+"758","Air Taxi - Coastal Airways Inc.",1,3,0.75
+"759","Air Taxi - Coastal Helicopters Inc.",1,7,1
+"760","Air Taxi - Continental Air Taxi",1,3,0.5
+"761","Air taxi - Cuiaba Air Taxi",1,6,1
+"762","Air Taxi - Custom Air Transport Inc.",1,2,1
+"763","Air Taxi - Delaware Aviation LLC",1,4,1
+"764","Air Taxi - Desert Flying Service",1,3,1
+"765","Air Taxi - Durango Air Service",1,3,1
+"766","Air Taxi - Eidoarie Inc.",1,4,1
+"767","Air Taxi - El Aero Services Inc.",1,5,1
+"768","Air Taxi - Flying School of the Cascades Inc.",1,4,1
+"769","Air Taxi - Four Corners Aviation Inc.",1,2,0.4
+"770","Air Taxi - Grant Aviation Inc.",1,6,1
+"771","Air Taxi - Great Northern Aircraft Co.",1,3,0.428571428571429
+"772","Air Taxi - Guinn Flying Service",1,4,1
+"773","Air Taxi - Haines Airways Inc.",1,6,1
+"774","Air Taxi - Hawaii Helicopters Inc.",1,7,1
+"775","Air Taxi - Henson Airlines",1,14,1
+"776","Air Taxi - Iliamna, Air Taxi Inc.",1,6,1
+"777","Air Taxi - Island Air Service",1,4,1
+"778","Air Taxi - Island Airlines",1,4,1
+"779","Air Taxi - Islip Airco Inc.",1,2,0.4
+"780","Air taxi - Jao Air Taxi",1,4,1
+"781","Air Taxi - Jet Alaska",1,3,1
+"782","Air Taxi - Lab Flying Service Inc.",1,6,1
+"783","Air Taxi - Lake Clark Air Inc.",1,3,0.75
+"784","Air Taxi - Las Vegas Flyers Inc.",1,10,1
+"785","Air taxi - Lider Air Taxi",1,6,1
+"786","Air Taxi - MajestiAlliance",1,2,1
+"787","Air Taxi - Marco Zero Air Taxi",1,5,1
+"788","Air Taxi - Martin Aviation LP",1,5,1
+"789","Air Taxi - Mercy Flights Inc.",1,4,1
+"790","Air Taxi - Minuteman Aviation Inc.",1,3,1
+"791","Air Taxi - Monument Valley Air Service",1,6,1
+"792","Air Taxi - National Helicopters",1,3,1
+"793","Air Taxi - New England Airlines",1,3,0.6
+"794","Air Taxi - New London Flying Services Inc.",1,2,0.5
+"795","Air Taxi - Northern Air Services Inc.",1,2,1
+"796","Air Taxi - Northern Arizona Aircraft Inc.",1,5,1
+"797","Air Taxi - Ohana Helicopter Tours",1,6,1
+"798","Air Taxi - Oklahoma Airways Inc.",1,2,1
+"799","Air Taxi - Ozark Skyways Inc.",1,4,1
+"800","Air Taxi - Papillion Helicopters Ltd.",1,3,0.428571428571429
+"801","Air Taxi - Paramount Aviation Corp.",1,5,1
+"802","Air Taxi - Peninsula Airways",1,3,1
+"803","Air Taxi - Petroleum Helicopters Inc.",1,15,1
+"804","Air Taxi - Raco Helicopters Corp.",1,3,1
+"805","Air Taxi - Richards Aviation Inc.",1,2,1
+"806","Air Taxi - Richmor Aviation",1,3,1
+"807","Air taxi - Rumo Notre Air Taxi",1,4,1
+"808","Air Taxi - Ryan Air Service",1,5,1
+"809","Air Taxi - Sea PacifiInc.",1,3,0.75
+"810","Air Taxi - Seaside Air Service",1,3,1
+"811","Air Taxi - South Coast Helicopters Inc.",1,4,1
+"812","Air Taxi - Stanley Air Taxi",1,4,1
+"813","Air Taxi - Stearns Air Alaska",1,3,0.6
+"814","Air Taxi - Sun Western Flyers Inc.",1,9,0.9
+"815","Air Taxi - TAJ FBO Co.",1,4,1
+"816","Air Taxi - Talon Air Services Inc.",1,3,1
+"817","Air taxi - TAM",1,2,1
+"818","Air Taxi - Temesco Helicopters Inc.",1,3,1
+"819","Air Taxi - Trail Lake Flying Service Inc.",1,5,1
+"820","Air Taxi - Transamerica",1,2,0.5
+"821","Air Taxi - Tyee Airlines Inc.",1,8,1
+"822","Air Taxi - US Helicopters Inc.",1,5,1
+"823","Air Taxi - Uyak Air Services Inc.",1,6,0.857142857142857
+"824","Air Taxi - Western Helicopter Inc.",1,4,1
+"825","Air Taxi - Wilderness Aviation Inc.",1,3,1
+"826","Air Taxi - Wolfe Air Aviation Ltd.",1,2,0.5
+"827","Air Taxi -Wilderness Aviation Inc.",1,5,1
+"828","Air Taxi- Hermans Air Inc.",1,2,0.5
+"829","Air Transit - Air Taxi",1,3,0.75
+"830","Air Transport Associates",1,2,0.0625
+"831","Air Transport Charter",1,3,0.75
+"832","Air Trek",1,6,1
+"833","Air Turks & Caicos",1,1,0.166666666666667
+"834","Air US / Private",1,15,0.789473684210526
+"835","Air West",1,7,1
+"836","Air West Airlines Ltd.",1,1,0.0526315789473684
+"837","Air Wisconsin",1,13,0.866666666666667
+"838","Air-Lift Commuter",1,2,1
+"839","Airborne Transport",1,32,1
+"840","Airbus Industrie",1,7,1
+"841","Airco Charters - Air Taxi",1,2,1
+"842","Aircraft Charter Group Inc",1,2,1
+"843","Aircraft Transport and Travel",1,1,1
+"844","Airline Transport",1,1,0.142857142857143
+"845","Airline Transport Carriers",1,32,1
+"846","Airlines of Australia",1,5,0.714285714285714
+"847","Airlines of PNG",1,2,0.666666666666667
+"848","Airquarius Aviation - Charter",1,3,1
+"849","Airtech Rajawaldi Udara",1,14,0.7
+"850","Airwave Transport",1,2,1
+"851","Airways",1,3,1
+"852","AirWest Airlines",1,11,0.846153846153846
+"853","Aitalia",1,13,0.136842105263158
+"854","Akhal Air",1,12,1
+"855","Aktiebolaget Aerotransport",1,7,1
+"856","Alada",1,1,0.0769230769230769
+"857","ALADA",1,16,1
+"858","Alamo Airways",1,3,1
+"859","Alantis Aviation",1,12,1
+"860","Alas Chiricanas",1,21,1
+"861","Alas del Sur",1,3,1
+"862","Alas Nacionales, leased from Birgen Air",1,189,1
+"863","Alaska Aeronautical Industries",1,13,1
+"864","Alaska Coastal Airlines",1,9,1
+"865","Alaska Helicopter - Air Taxi",1,5,1
+"866","Alaska International Air",1,4,1
+"867","Alaska Travel",1,6,1
+"868","Alaska-Washington Airways",1,3,1
+"869","Albancion Circulo",1,10,1
+"870","ALFA",1,18,0.75
+"871","ALIANSA Colombia",1,8,1
+"872","Alii Air Hawaii - Air Taxi",1,8,1
+"873","All Nippon Airways /  Japanese Air Force",1,163,0.99390243902439
+"874","Allegheny Airlines / Forth Corporation",1,83,1
+"875","Alliance Airlines",1,6,1
+"876","Allied Air Freight",1,2,1
+"877","Aloha Airlines",1,1,0.0105263157894737
+"878","Aloha Island Air",1,20,1
+"879","Alpa Servicios Aí©reos",1,4,1
+"880","Alpena Flying Service - Air Taxi",1,6,1
+"881","Alpha Airways",1,4,1
+"882","Alpine Air Express",1,2,1
+"883","Alpine AviationŒæ",1,1,1
+"884","AltusFlying Service - Air Taxi",1,2,0.5
+"885","Alva Aircraft Service - Taxi",1,3,1
+"886","Alyemda Airlines",1,3,0.0410958904109589
+"887","Amazonese Importacao e Exportacao",1,9,0.5
+"888","Ambler Air Service",1,7,0.777777777777778
+"889","Amee de l'Air",1,3,0.75
+"890","American Air  Export & Import Co.",1,1,0.5
+"891","American Airlines / Military - USAF",1,12,0.923076923076923
+"892","American Airlines / Private",1,2,0.0952380952380952
+"893","American Export Airlines",1,11,0.297297297297297
+"894","American Express Leasing",1,5,1
+"895","American Flyers Airline",1,83,0.846938775510204
+"896","American International Airways",1,0,0
+"897","American Jet",1,7,1
+"898","American Overseas Airlines",1,39,1
+"899","American Virginia",1,1,0.2
+"900","Amphibians",1,5,0.454545454545455
+"901","Anchorage Helicopter - Air Taxi",1,3,1
+"902","ANDESA",1,30,1
+"903","Angola Air Charter",1,6,1
+"904","Ansett Airlines of Papua New Guinea",1,4,1
+"905","Ansett New Zealand",1,5,0.238095238095238
+"906","ANT Air Taxi",1,5,1
+"907","Antillian Airlines",1,23,0.365079365079365
+"908","Antillies Air - Air Taxi",1,4,0.363636363636364
+"909","Apache Airlines - Air Taxi",1,12,1
+"910","Apline Aviation",1,1,1
+"911","APRL",1,11,0.423076923076923
+"912","Aquilla Airways",1,43,0.741379310344828
+"913","Arall",1,4,0.363636363636364
+"914","Aramar",1,8,1
+"915","Aramco Associated Company",1,12,0.6
+"916","Ararat Avia",1,0,0
+"917","Arax Airlines",1,4,1
+"918","Aray-Avia",1,1,0.0833333333333333
+"919","Archana Airlines",1,9,1
+"920","ArctiCircle Air Service",1,1,1
+"921","ArctiPacific",1,22,0.458333333333333
+"922","ArctiTransportation Services",1,1,1
+"923","ArctiWings & Rotors",1,7,1
+"924","Argentina CAA",1,11,1
+"925","Armavia",1,113,1
+"926","Aroostook Air - Air Taxi",1,3,1
+"927","Arrow Airlines",1,9,1
+"928","Arrow Airways",1,256,1
+"929","Arsenyev Aviation Production Association",1,8,0.4
+"930","ARTOP Aerotopografica LDA",1,36,1
+"931","Asa Pesada",1,57,1
+"932","Asian Spirit",1,17,1
+"933","Asiana Airlines",1,68,0.618181818181818
+"934","Aspring Air",1,10,1
+"935","Associated Air Transport",1,40,1
+"936","Associated Aviators",1,1,0.5
+"937","Astrd Wing Aviaiton - Air Taxi",1,2,1
+"938","Astro Air Taxi",1,4,1
+"939","ATESA",1,5,0.357142857142857
+"940","ATI Aircompany",1,8,1
+"941","AtlantiAirlines",1,9,0.692307692307692
+"942","AtlantiAirways",1,4,0.25
+"943","AtlantiCentral Airlines",1,4,0.666666666666667
+"944","AtlantiCity Airlines",1,3,0.3
+"945","AtlantiCoast Airlines (United Express)",1,5,0.625
+"946","Atlasjet Airlines",1,57,1
+"947","Atran",1,9,1
+"948","Augusta Aviaiton - Air Taxi",1,2,0.666666666666667
+"949","Aurukun Air Services",1,6,1
+"950","Australian Aerial Services",1,2,1
+"951","Austria-Flugdienst",1,5,1
+"952","Austrian Airlines",1,31,0.837837837837838
+"953","AV Air / American Eagle",1,12,1
+"954","Avalki Air",1,6,0.6
+"955","Avanti Aviation -Air Taxi",1,2,1
+"956","AVCOM",1,2,1
+"957","AVENSA",1,2,1
+"958","Avesca Colombia",1,11,1
+"959","Avia Air Aruba",1,8,1
+"960","Avia-Taxi",1,10,1
+"961","Aviaimpex (Macedonia)",1,116,1
+"962","AVIANCA / AVIANCA",1,38,1
+"963","Aviastar Mandiri",1,6,1
+"964","Aviation Development Corporation",1,143,1
+"965","Aviation Enterprises",1,3,1
+"966","Avicsa",1,20,0.5
+"967","Aviogenex (Yugoslavia)",1,78,0.939759036144578
+"968","Avion Airways",1,16,0.592592592592593
+"969","Avionas  Banamex",1,8,1
+"970","Avioriprese Jet Executive",1,3,1
+"971","Avirex",1,3,0.3
+"972","AVISPA",1,40,1
+"973","Avisto",1,22,0.536585365853659
+"974","Avtex Air Services",1,1,1
+"975","AZAL Cargo Company",1,7,1
+"976","Azov Avia Airlines",1,3,0.428571428571429
+"977","BAFIN",1,4,1
+"978","Bahri Aviation",1,5,1
+"979","Baikal Air",1,124,1
+"980","Baker Aero Inc. - Taxi",1,2,1
+"981","Bako Air",1,7,1
+"982","BAL Bremerhaven Airline",1,8,0.888888888888889
+"983","Balair",1,12,1
+"984","Bangkok Airways",1,38,1
+"985","Bangladesh Biman",1,49,1
+"986","Bankair",1,3,1
+"987","Bankair Inc. - Air Taxi",1,5,0.714285714285714
+"988","Bar Harbor Airlines",1,8,1
+"989","Barrow Air Service - Air Taxi",1,7,0.875
+"990","Bashkirian Airlines / DHL Worldwide Express",1,71,1
+"991","Bassett Complany - Taxi",1,6,1
+"992","Bavaria Flug",1,11,1
+"993","Bay Land Aviation",1,5,1
+"994","Bazair",1,27,1
+"995","Bearskin Airlines / Air Sandy",1,8,1
+"996","Beatty Flying Service - Taxi",1,2,1
+"997","Belair - Air Taxi",1,5,1
+"998","Belgian International Air Services",1,4,1
+"999","Belize Air International Ltd.",1,5,0.416666666666667
+"1000","Bellview Airlines",1,117,1
+"1001","Berkshire Aviation - Air Taxi",1,2,0.666666666666667
+"1002","Bharat Airways",1,7,1
+"1003","BHS - Brazilian Helicopter Service  Air Taxi",1,6,0.545454545454545
+"1004","BHS - Brazilian Helicopter Service Air Taxi",1,5,0.25
+"1005","BHS - Brazilian Helicopter Services",1,5,1
+"1006","Bimini Air Charter Inc.",1,5,0.555555555555556
+"1007","Bimini Airways",1,5,1
+"1008","Binter Mediterríçneo",1,4,0.0851063829787234
+"1009","BKS Air Transport",1,6,0.75
+"1010","Blackhawk Int. Airways  - Private charter",1,9,1
+"1011","Blue Bird Air Service",1,4,1
+"1012","Blue Bird Aviation",1,2,1
+"1013","Blue Hawaiian Helicopters",1,7,1
+"1014","Blue Water Aviation Services",1,1,0.5
+"1015","Blue Wing Airlines",1,19,1
+"1016","Boeing KC-135E",1,2,0.285714285714286
+"1017","Boise Air Service",1,6,1
+"1018","Bombardier Aerospace",1,2,0.666666666666667
+"1019","Bonanza Airlines",1,29,1
+"1020","Bond Offshore Helicopters",1,16,1
+"1021","Borneo Airways",1,10,1
+"1022","Bourag Indonesia Airlines",1,10,1
+"1023","Bremerton-Seattle Air Taxi / Gorst Air Lines",1,2,1
+"1024","Bristol 170 Freighter 31M",1,2,0.2
+"1025","Bristol Aeroplane Co.",1,15,1
+"1026","Brit Air",1,1,0.0416666666666667
+"1027","Britannia Airways",1,98,0.837606837606838
+"1028","Britavia",1,5,0.0625
+"1029","British Aircraft Corporation",1,7,1
+"1030","British Airtours",1,55,0.401459854014599
+"1031","British Airways Helicopters",1,20,0.769230769230769
+"1032","British Columbia Airways",1,7,1
+"1033","British Commonwealth PacifiAirlines",1,19,1
+"1034","British European Airways / Military - British",1,14,1
+"1035","British European Airways / Military - Soviet Air Force",1,15,1
+"1036","British International Helicopters",1,45,0.957446808510638
+"1037","British Overseas Airways /Qantas",1,10,1
+"1038","British United Airways",1,26,0.962962962962963
+"1039","British World Airways",1,1,0.5
+"1040","Britt Airways",1,3,1
+"1041","Broughton Air Servces",1,10,1
+"1042","Broward Aviation Services - Air Taxi",1,5,1
+"1043","Bruning Aviation",1,2,1
+"1044","Bruno Air",1,9,1
+"1045","Bruns Air Service - Air Taxi",1,4,1
+"1046","Buckeye Air Service - Air Taxi",1,2,1
+"1047","Buffalo Narrows Airways",1,2,1
+"1048","Bulair TABSO",1,47,0.528089887640449
+"1049","Burke Air Transport",1,14,0.388888888888889
+"1050","Burlington Air - Air Taxi",1,2,0.5
+"1051","Burlington Air Express",1,4,1
+"1052","Business Air Connection",1,4,1
+"1053","Business Aircraft - Air Taxi",1,3,1
+"1054","Business Jet Services",1,3,1
+"1055","Butler Aviation Inc.",1,12,1
+"1056","By Air",1,1,1
+"1057","C and C Aviaiton - Air Taxi",1,5,1
+"1058","CAAC Air TraffiManagement Bureau",1,3,1
+"1059","CAAK",1,23,1
+"1060","Cable Commuter",1,9,1
+"1061","Cabo Verde Airlines",1,1,0.0454545454545455
+"1062","Calair",1,2,1
+"1063","Caledonian Airways",1,111,1
+"1064","California Air Charter",1,1,1
+"1065","California Air Freight",1,2,1
+"1066","California Air National Guard",1,2,1
+"1067","California Aircraft",1,3,1
+"1068","CAMBA",1,10,0.909090909090909
+"1069","Campagnie France Roumaine",1,2,1
+"1070","Canada Jet Charters",1,5,1
+"1071","Canadian Air Transat",1,0,0
+"1072","Canadian Colonial Airways",1,4,1
+"1073","Canair Cargo",1,2,1
+"1074","Canair Corp. - Air Taxi",1,4,1
+"1075","Canairelief Air",1,4,1
+"1076","Cape Smythe Air Service",1,5,0.5
+"1077","Capital Airlines / Military - Air National Guard",1,11,1
+"1078","Capital Airlines Inc.",1,2,1
+"1079","Capital Taxi Aereo",1,3,1
+"1080","Care Flight International",1,1,0.2
+"1081","Carga Aereo Transportada",1,4,1
+"1082","Carga del Caribe",1,3,0.6
+"1083","Cargo Three Panama",1,2,1
+"1084","Cargolux",1,4,1
+"1085","Carib Air Transport",1,7,1
+"1086","Caribbean Air Carrier - Air Taxi",1,4,1
+"1087","Caribbean Airlines",1,5,1
+"1088","Caribbean International Airways",1,13,1
+"1089","Carvair ATL-98",1,1,0.0555555555555556
+"1090","Casino Air - Air Taxi",1,2,0.4
+"1091","Castle Aviation",1,2,1
+"1092","CATA",1,4,1
+"1093","CATA Linea Aerea",1,5,1
+"1094","Catalina - Vega - Air Taxi",1,4,1
+"1095","Catalina Airlines",1,1,0.0909090909090909
+"1096","CC Air",1,2,1
+"1097","CCCP",1,2,0.5
+"1098","Cebu PacifiAir",1,104,1
+"1099","Central  Airlines",1,5,1
+"1100","Central Air Services",1,2,1
+"1101","Central Airlines",1,2,1
+"1102","Centurian Air Cargo",1,0,0
+"1103","Century Air Lines",1,2,0.4
+"1104","Century PacifiLines",1,8,1
+"1105","Cessnyca",1,14,1
+"1106","Chaillotine Air Service",1,6,1
+"1107","Chalk's International Airlines",1,2,1
+"1108","Chalk's Ocean Airways",1,20,1
+"1109","Chamberlin Flying Service",1,1,0.166666666666667
+"1110","Channel Air Lift",1,3,1
+"1111","Channel Express",1,2,1
+"1112","Charter",1,1,0.0119047619047619
+"1113","Charter - Aerotaxi",1,17,1
+"1114","Charter - Air Adventures New Zealand Ltd",1,8,0.8
+"1115","Charter - Air Cush",1,6,0.6
+"1116","Charter - Central Air",1,8,1
+"1117","Charter - Flightline Charter Services",1,9,1
+"1118","Charter - IRS Aero",1,27,1
+"1119","Charter - Maniema Union (owner Victoria Air)",1,27,1
+"1120","Charter - Private",1,2,0.222222222222222
+"1121","Charter - Twin Air HB",1,8,1
+"1122","Charter -Federal Electricity Commission",1,19,1
+"1123","Charter, Golden Eagle Aviation Inc.",1,30,0.75
+"1124","Chelan Air Service",1,2,0.4
+"1125","Cheremshanka Airlines",1,28,1
+"1126","Chester Airport",1,3,1
+"1127","Chicago and Southern Airlines",1,2,1
+"1128","Chicago Helicopter Airways",1,13,1
+"1129","Chicago-Detroit Airways",1,1,1
+"1130","China Air Lines",1,24,1
+"1131","China Flying Dragon Aviation (Feilong Airlines)",1,2,0.166666666666667
+"1132","China General Aviation Corporation",1,108,0.857142857142857
+"1133","China Southwest Airlines / Xiamen Airlines",1,128,0.566371681415929
+"1134","Chugiak Aviation - Air Taxi",1,2,0.285714285714286
+"1135","Churchill Falls Co.",1,8,1
+"1136","Cia Brasiliera de Tratores",1,10,1
+"1137","Cie Air Transport",1,26,1
+"1138","Cie des Messageries Aeriennes",1,3,1
+"1139","Circuit City Stores - Charter",1,8,1
+"1140","City-Jet",1,6,1
+"1141","Clarkes Thunder - Air Taxi",1,2,1
+"1142","ClassiWings",1,27,0.9
+"1143","Coastal Air Lines",1,18,0.666666666666667
+"1144","Coastal Cargo",1,2,1
+"1145","COHATA",1,30,0.857142857142857
+"1146","College of the Ozarks",1,6,1
+"1147","Columbia Air Cargo",1,13,1
+"1148","Columbia PacifiAirlines",1,17,1
+"1149","Commercial Airways",1,12,1
+"1150","Commercial Airways (Comair)",1,17,1
+"1151","Commutair",1,2,0.5
+"1152","Commuter Airline - Air Taxi",1,3,0.272727272727273
+"1153","Compagnie Air Transport",1,4,0.666666666666667
+"1154","Compagnie Internationale de Navigation Aí©rienne",1,7,1
+"1155","Compagnie Sila",1,2,0.285714285714286
+"1156","Compania de Aviacion Faucett SA (Peru)",1,123,1
+"1157","Compania de Mexico",1,14,1
+"1158","Compania Dominicana de Aviacion",1,102,1
+"1159","Compania Mexicana de Aviacion",1,79,1
+"1160","ComvaAviation",1,4,1
+"1161","Condor Flugdienst",1,16,1
+"1162","Conesul Taxi Aí©reo",1,7,1
+"1163","Congo Airline",1,41,1
+"1164","Connair",1,11,1
+"1165","Connie Kalitta Services",1,3,1
+"1166","Conquest Airways - Air Taxi",1,3,0.272727272727273
+"1167","Continental Air Services",1,2,1
+"1168","Continental Air Transport",1,3,1
+"1169","Continental Charters",1,26,0.65
+"1170","Continental Connection/Colgan Air",1,49,1
+"1171","Continental Express",1,14,1
+"1172","Continentale Deutsche Luftreederei",1,1,0.142857142857143
+"1173","Conviasa",1,3,1
+"1174","Cooper Skybird Air Charters",1,14,1
+"1175","COPA (Panama)",1,47,1
+"1176","Copterline",1,14,1
+"1177","Corp. Aeronautica de Transportes",1,4,1
+"1178","Corporacion Boliviano de Fomento",1,6,1
+"1179","Corporate Air",1,1,1
+"1180","Corporate Air - Air Taxi",1,3,1
+"1181","Corporate Airlines (American Connection)",1,13,0.866666666666667
+"1182","Corporate Mobility Inc. - Private",1,3,1
+"1183","Costal Airway",1,8,1
+"1184","Cougar Helicopters",1,17,0.944444444444444
+"1185","Coval Air",1,9,1
+"1186","Crasa - Air Taxi",1,6,1
+"1187","Crest Airlines - Air Taxi",1,2,1
+"1188","Cross Airways",1,5,1
+"1189","Cruzeiro Do Sud",1,26,1
+"1190","CSA Czech Airlines",1,16,0.941176470588235
+"1191","CTA LanguedoRoussillon",1,23,0.851851851851852
+"1192","Cubana de Aviacion / Military -  US Navy",1,43,1
+"1193","Cunard Eagle Airways",1,39,1
+"1194","Currey Air Transport",1,3,0.0909090909090909
+"1195","Curtiss-Reid Flying Services Ltd. (Canada)",1,52,1
+"1196","Custom Air Service",1,2,1
+"1197","Dai Nippon",1,6,1
+"1198","Daimler Airways",1,6,1
+"1199","Daimler Airways / Grands Express Aeriens",1,7,1
+"1200","Dalmia Jain Airways",1,13,1
+"1201","Dan-Air Services",1,4,0.8
+"1202","Darbhanga Aviation",1,5,0.454545454545455
+"1203","de Havilland Aircraft",1,11,1
+"1204","Del Rio Flying Service - Air Taxi",1,7,1
+"1205","Delaware Aviation - Air Taxi",1,2,1
+"1206","Delta Air Lines/ North Central Airlines",1,10,0.075187969924812
+"1207","Deming Flying Service - Air Taxi",1,2,1
+"1208","Den Norske Luftfartskole",1,7,1
+"1209","Denver Air Center",1,7,1
+"1210","Deraps Aviation",1,3,0.75
+"1211","Deraya Air Taxi",1,1,0.111111111111111
+"1212","Derby Aviation",1,34,1
+"1213","Det Danske Luftfartselskab",1,12,0.571428571428571
+"1214","Deutche Lufthansa",1,1,1
+"1215","Deutsche Flugdienst",1,1,0.0294117647058824
+"1216","Deutsche Zeppelin Reederei",1,35,0.360824742268041
+"1217","Devener Flying Service - Taxi",1,3,1
+"1218","Devlet Hava Yollairi",1,15,1
+"1219","DHL",1,2,0.666666666666667
+"1220","DHL Aviation Africa",1,4,1
+"1221","Dirgantara Air Service",1,3,1
+"1222","DJB Air Charter",1,1,0.1
+"1223","DLL",1,2,0.125
+"1224","DNL",1,13,1
+"1225","Dodita Air Cargo",1,1,0.5
+"1226","Dominicana",1,31,1
+"1227","Dominion Air Lines",1,1,1
+"1228","Don Everall Aviation",1,3,1
+"1229","Don Zimmerman - Air Taxi",1,4,1
+"1230","Douglas Aircraft",1,5,0.833333333333333
+"1231","Douglas Aircraft Company",1,5,1
+"1232","Duncan Aircraft Sales",1,10,1
+"1233","Dunlap Aviation - Air Taxi",1,2,1
+"1234","Dutch Continental Airways",1,3,0.3
+"1235","Dutch Dakota Association",1,32,1
+"1236","Dwyer Flying Service - Private Charter",1,4,1
+"1237","E.A.S. Aeroservizi",1,3,1
+"1238","Eagle Airways",1,2,1
+"1239","Eagle Cap Leasing",1,14,1
+"1240","Eagle Commuter",1,7,0.7
+"1241","Eagle Flight - Air Taxi",1,4,1
+"1242","EAS Airlines (Executive Airline Services)",1,74,0.961038961038961
+"1243","East African Air Charters",1,4,0.8
+"1244","East Anglian Flying Services",1,12,0.666666666666667
+"1245","East Coast Air - Air Taxi",1,3,1
+"1246","East Coast Jets",1,8,1
+"1247","East Indonesia Air Taxi",1,13,1
+"1248","East Provincial Airways",1,15,0.714285714285714
+"1249","Eastern Air Lines / Military - Bolivian Air Force",1,55,1
+"1250","Eastern Air Lines / Military - U.S. Army Air Corps",1,3,0.3
+"1251","Eastern Air Lines / Military - USN",1,16,1
+"1252","Ecuatair",1,60,1
+"1253","Ecuato Guineana de Aviacion",1,6,1
+"1254","Edde Airlines",1,13,1
+"1255","EDELCA",1,12,1
+"1256","Edinburgh Air Charter",1,8,0.727272727272727
+"1257","Eitos",1,13,1
+"1258","Ejercito del Aire",1,16,1
+"1259","El Magal Aviation",1,7,1
+"1260","Elbee Airlines",1,2,1
+"1261","ELK Aviation Co. (leased from Eminex)",1,2,0.117647058823529
+"1262","Embry Riddle Company",1,1,1
+"1263","Emirates Air Transport",1,4,1
+"1264","Empresa Aviacion del Pacifico",1,36,1
+"1265","Empresa Nacional de Transp.  Trabalho Aereo",1,5,1
+"1266","Empressa Commun. Aí©reas de Veracruz",1,15,1
+"1267","Enimex",1,2,0.666666666666667
+"1268","ERA Aviation - Air Taxi",1,3,0.6
+"1269","ERA Helicopter",1,2,1
+"1270","Era Helicopter - Air Taxi",1,2,0.285714285714286
+"1271","ETA - Empresa Transportes Aí©reos",1,9,1
+"1272","Eurasia",1,4,1
+"1273","Eureka Aero Inc. - Air Taxi",1,3,1
+"1274","Euro Asia Aviation",1,6,1
+"1275","Euroair",1,1,1
+"1276","Eurojet Italila",1,2,1
+"1277","Europe Aero Service EAS",1,22,1
+"1278","Everest Air",1,19,1
+"1279","Evergreen Alaska Helicopters, Inc.",1,4,1
+"1280","Evergreen International Airlines",1,2,1
+"1281","Evolga",1,3,1
+"1282","EXA Inc.",1,12,1
+"1283","Executive Airlines",1,19,1
+"1284","Executive Funds",1,1,0.04
+"1285","Executive Jet Sales Inc.",1,6,1
+"1286","Exportada De Sal S.A.",1,12,1
+"1287","Express Airlines - Northwest Airlink",1,18,1
+"1288","F.R. de la Direccion General de Ados",1,20,1
+"1289","Fairbanks Air - Air Taxi",1,2,1
+"1290","Fairbanks Air Service - Taxi",1,2,1
+"1291","Fairflight Ltd.",1,80,0.963855421686747
+"1292","Fairways",1,10,0.833333333333333
+"1293","Falcon Airways - Air Taxi",1,2,1
+"1294","Falcon Aviation Group",1,7,1
+"1295","FAMA (Argentina)",1,21,1
+"1296","Far Aviation - Air Taxi / Speeds Flying - Air Taxi",1,2,0.222222222222222
+"1297","Far East Aviation",1,98,1
+"1298","Faraz Qeshm Airlines",1,30,1
+"1299","Farnair Hungary",1,2,1
+"1300","Federal Airlines",1,53,1
+"1301","Festus Flying Service - Air Taxi",1,2,1
+"1302","Fiji Air",1,2,1
+"1303","Fiji Air Services",1,9,1
+"1304","Filipinas Orient Airways",1,11,1
+"1305","Fine Air",1,4,1
+"1306","First Air",1,2,1
+"1307","Flamingo Airlines - Air Taxi",1,2,1
+"1308","Flash Air",1,148,1
+"1309","Fleming Airways System Transport",1,1,0.0256410256410256
+"1310","Fleming International Airways",1,3,1
+"1311","Flight Safety Australia",1,2,1
+"1312","Flight Service",1,13,1
+"1313","Flightline",1,10,1
+"1314","Florida Commuter Airlines",1,34,1
+"1315","Flugefelag",1,25,1
+"1316","Flugfelag Austurlands",1,3,1
+"1317","Fly 540",1,3,1
+"1318","Flying W Airways",1,2,1
+"1319","Flynn's Ferry Service",1,2,1
+"1320","Force Area Populaire de Angola",1,37,1
+"1321","Ford Air Freight Inc.",1,2,1
+"1322","Fortaire Aviation - Air Taxi",1,3,0.6
+"1323","Foster Aviation",1,6,1
+"1324","Fragtflug",1,3,1
+"1325","Francisco Cruz",1,6,1
+"1326","Franco-Roumaine",1,5,1
+"1327","Fred Olsen Flyveselskap",1,11,0.379310344827586
+"1328","Freedom International",1,1,0.5
+"1329","Frigorifico Cooperativo Los Andes",1,27,1
+"1330","Frigorifico Maniqui",1,7,0.7
+"1331","Frigorifico Reyes",1,5,1
+"1332","Frigorifico Santa Rita",1,5,1
+"1333","Frontier Air",1,1,0.25
+"1334","Frontier Flying Service",1,3,0.3
+"1335","Fuerza Aí©rea Colombiana",1,80,1
+"1336","Fuerza Aí©rea Nicaragua",1,28,1
+"1337","Fuerza Aí©rea Panamena",1,16,1
+"1338","Fuerza Aí©rea Uruguaya",1,5,0.333333333333333
+"1339","Fuerza Aí©rea Venezolana",1,11,1
+"1340","Fuerza Area Angolaise",1,47,1
+"1341","Fuji Airlines",1,20,0.476190476190476
+"1342","Fujita Koku Kabushki Kai",1,19,1
+"1343","Fun Air",1,5,1
+"1344","G & W Aviation",1,5,1
+"1345","Gabon Express",1,19,0.633333333333333
+"1346","Gaige Aviation - Air Taxi",1,5,1
+"1347","Galaxy Airlines",1,70,0.985915492957746
+"1348","Galaxy Kavatsi Airlines",1,8,1
+"1349","Galesburg Aviation - Air Taxi",1,2,1
+"1350","Gambcrest",1,30,0.535714285714286
+"1351","Gander Aviation",1,10,1
+"1352","Garamut Aviation",1,3,1
+"1353","Garuda  Indonesia Airlines / Garuda Indonesia Airlines",1,34,1
+"1354","GAS Air",1,8,1
+"1355","Gastonia Aviation - Taxi",1,2,1
+"1356","General Air",1,8,0.615384615384615
+"1357","General Aviation Inc.",1,2,1
+"1358","Georgia Express",1,10,1
+"1359","Georgian Air",1,24,1
+"1360","Geoterrex",1,3,1
+"1361","Ghana Airlink",1,7,0.134615384615385
+"1362","Ghana Airways",1,1,0.0303030303030303
+"1363","Ginger Coote Airways",1,1,1
+"1364","Gira Globo Charter",1,13,1
+"1365","GLM Aviation",1,2,0.142857142857143
+"1366","Global Executive Aviation",1,4,0.666666666666667
+"1367","Globe Air",1,126,0.969230769230769
+"1368","Glow Air/Air Castle - Charter",1,3,0.5
+"1369","Gol Airlines / Private",1,154,0.956521739130435
+"1370","Golden Star Air Cargo",1,7,1
+"1371","Golden West Airlines / Private",1,14,1
+"1372","Goose Bay Air Services",1,4,0.8
+"1373","Gor'ky Eskadril'ya",1,50,1
+"1374","Goroka Air Services",1,2,0.5
+"1375","Government of Mozambique",1,34,0.772727272727273
+"1376","Grand Aire",1,2,1
+"1377","Grand Canyon Air - Air Taxi",1,2,1
+"1378","Grand Canyon Airlines / Helitech",1,25,1
+"1379","Great Lakes Business Complany",1,14,0.933333333333333
+"1380","Great Western and Southern Air Lines",1,6,1
+"1381","Greek Government",1,7,0.538461538461538
+"1382","Green Acres - Air Taxi",1,3,1
+"1383","Green River Aviation - Air Taxi",1,3,1
+"1384","Greenbriar Airways",1,4,1
+"1385","Greylock Airways / Private",1,3,0.214285714285714
+"1386","GT Air",1,18,1
+"1387","Guardia Nacional de Venezuela",1,16,1
+"1388","Guernsey Airways",1,7,1
+"1389","Guiena Airways",1,1,1
+"1390","Guinea Airways Limited",1,12,1
+"1391","Gulf Aviation (Kalinga Airways)",1,16,1
+"1392","Gum Air Charter",1,10,1
+"1393","Guyana Airways",1,3,1
+"1394","Haines Airways - Air Taxi",1,4,0.666666666666667
+"1395","Hallo Bay Air - Air Taxi",1,3,1
+"1396","Halvorson - Air Taxi",1,3,1
+"1397","Hamilton Aviation",1,2,1
+"1398","Hang Khong (Vietnam)",1,76,0.844444444444444
+"1399","Hankins Airways - Air Taxi",1,2,1
+"1400","Harbor Airlines - Air Taxi",1,4,0.666666666666667
+"1401","Harbour Air",1,3,1
+"1402","Harbour Air Seaplanes Ltd.",1,5,1
+"1403","Hargreaves Airways",1,6,0.75
+"1404","Harka Air Services",1,16,0.2
+"1405","Harold E. Bell - Air Taxi",1,2,1
+"1406","Harold's Air Service",1,1,0.25
+"1407","Harrington's Inc",1,3,1
+"1408","Harry Faulkner - Air Taxi",1,2,1
+"1409","Harvey's Flying Service - Air Taxi",1,2,1
+"1410","Hati Express",1,11,0.733333333333333
+"1411","Havasu City Air - Air Taxi",1,3,1
+"1412","Heavylift Cargo Airlines",1,6,0.5
+"1413","Helaire Helicopter",1,3,1
+"1414","Heli-USA Airways",1,4,0.571428571428571
+"1415","Heli-USA Airways, In- Air Taxi",1,4,0.666666666666667
+"1416","Heliandes",1,16,1
+"1417","Helicol Colombia",1,3,1
+"1418","Helicopter - Air Taxi",1,2,0.25
+"1419","Helicopteros Nacionales de Colombia",1,15,1
+"1420","Helicsa",1,11,0.846153846153846
+"1421","Helikopter Service",1,18,1
+"1422","Helios Airways",1,121,1
+"1423","Helisul Taxi Aí©reo",1,2,1
+"1424","Heliwork WA Pty Ltd. - Air Taxi",1,4,1
+"1425","Henry Nichols - Air Taxi",1,2,0.666666666666667
+"1426","Henry Webber Air - Air Taxi",1,2,1
+"1427","Heringer Air Taxi",1,4,1
+"1428","Hesler Noble - Air Taxi",1,2,1
+"1429","Hewa Bora Airways",1,0,0
+"1430","Hibiscus Air",1,9,1
+"1431","Himmelsschreiber",1,5,0.833333333333333
+"1432","HiTech Helicopters",1,4,1
+"1433","Hlavka Aviation - Air Taxi",1,2,1
+"1434","Holdens Air Transport Service",1,2,0.5
+"1435","Holmstoem Air",1,16,1
+"1436","Homer Air Service - Air Taxi",1,2,1
+"1437","Horizon Properties",1,5,0.3125
+"1438","Hornbill Airways",1,1,0.0588235294117647
+"1439","Hoseba",1,10,1
+"1440","Houston Metro Airlines",1,6,0.5
+"1441","Houston-Beech - Air Taxi",1,3,0.75
+"1442","Hudgin Air Service",1,7,1
+"1443","Hudson Air Service - Air Taxi",1,2,0.5
+"1444","Hughes Airwest  / Military - US Marine Air Corps",1,50,0.980392156862745
+"1445","Hunter Airways",1,2,1
+"1446","Huron Air",1,2,0.666666666666667
+"1447","Hyannis Air Service - Air Taxi",1,3,1
+"1448","IAI 1124 Westwind",1,3,1
+"1449","IAS Cargo",1,6,1
+"1450","Iberia Airlines / Aviaco",1,93,0.688888888888889
+"1451","Ibertrans Aí©rea",1,3,1
+"1452","Imperial Comm - Air Taxi",1,3,0.75
+"1453","IMSS",1,13,1
+"1454","Inair Panama",1,2,1
+"1455","Independent Air Inc.",1,144,1
+"1456","Independent Air Travel",1,3,1
+"1457","Indian Airlines/Alliance Airlines",1,55,0.948275862068966
+"1458","Indian National Airways",1,2,1
+"1459","Indonesian National Police",1,15,0.833333333333333
+"1460","Inex Adria Aviopromet",1,75,0.625
+"1461","Inex Adria Aviopromet (Yugoslavia)",1,180,1
+"1462","Inex Adria Aviopromet / British Airways",1,176,1
+"1463","Inland Aviation - Air Taxi",1,2,1
+"1464","Inter City Flug",1,7,0.875
+"1465","Inter Island Air - Air Taxi",1,2,0.666666666666667
+"1466","Inter Island Air Services",1,10,1
+"1467","Inter-Island",1,1,0.2
+"1468","Interamericana de Aviacion",1,5,1
+"1469","Intercontinental de Aviacion",1,51,0.980769230769231
+"1470","Interior Airways",1,2,0.5
+"1471","Interior Airways - Air Taxi",1,2,1
+"1472","International Air Freight",1,1,0.333333333333333
+"1473","International Control Commision",1,13,1
+"1474","International Jet Charter",1,2,0.4
+"1475","Interocean",1,1,0.142857142857143
+"1476","Interstate Airlines",1,4,1
+"1477","Intracostals - Air Taxi",1,3,1
+"1478","Inuvik Coastal Airways",1,2,0.166666666666667
+"1479","Invicta International Airlines (UK)",1,108,0.744827586206897
+"1480","Iran Air Tours  /  Military - Iranian Air Force",1,133,1
+"1481","Iran Asseman Airlines",1,66,1
+"1482","Iran National Airlines",1,128,1
+"1483","Island Airways Ltd.",1,8,1
+"1484","Island Express Helicopter Service",1,4,0.666666666666667
+"1485","Island Sky Ferry - Air Taxi",1,0,0
+"1486","Islands Nationair",1,13,1
+"1487","Islands of the Bahamas Inc",1,2,1
+"1488","Itek Air",1,68,0.755555555555556
+"1489","Ivolga Avia",1,8,1
+"1490","Jack Harter Helicopters",1,5,1
+"1491","Jack N. Boswick - Air Taxi",1,2,0.285714285714286
+"1492","Jamie Ramirez - Air Taxi",1,3,1
+"1493","Japan Air Self-Defence Force",1,14,1
+"1494","Japan Aviation Corporation",1,10,0.833333333333333
+"1495","Jay Hawk Air - Air Taxi",1,3,1
+"1496","JC Air",1,7,1
+"1497","Jersey Airways",1,14,1
+"1498","Jet Alaska",1,4,1
+"1499","Jet Avia Charter",1,4,1
+"1500","Jet Charter Group",1,2,1
+"1501","Jet Pro",1,2,1
+"1502","Jet Wings",1,1,1
+"1503","Jetcom S.A.",1,8,1
+"1504","Jetcraft",1,1,1
+"1505","Jetstream Inc.",1,3,1
+"1506","Jetwingsco Inc. - Private Charter",1,18,1
+"1507","Johnson Flying Service",1,10,0.357142857142857
+"1508","Jordan International Airlines",1,1,0.0175438596491228
+"1509","Junction City Fire Department",1,9,0.692307692307692
+"1510","Kalinin",1,14,0.7
+"1511","Kam Air",1,104,1
+"1512","Kansas City Southern Skyways",1,2,1
+"1513","Kapowsin Air Sports",1,10,1
+"1514","Kata Transportation",1,8,1
+"1515","Kauai Helicopter - Air Taxi",1,2,0.666666666666667
+"1516","Kavatshi Airlines",1,11,1
+"1517","Kelowna Flightcraft Air Charter",1,2,1
+"1518","Kenmore Air  - Air Taxi",1,7,1
+"1519","Key West Sea Plane Service - Air Taxi",1,5,1
+"1520","Keystone Air Services Ltd. - Air Taxi",1,1,0.125
+"1521","Khalatyrka",1,20,1
+"1522","Khors Aircompany",1,11,1
+"1523","Kiev Production Association",1,1,0.0769230769230769
+"1524","Kime Flying Service - Air Taxi",1,3,1
+"1525","Kimura International",1,10,1
+"1526","Kinair Cargo",1,5,1
+"1527","King Air Charter",1,3,1
+"1528","Kirghizia Aba Zaoldoru",1,15,1
+"1529","Kisangani Airlift",1,10,0.909090909090909
+"1530","Kish Airlines",1,43,0.934782608695652
+"1531","Kismayo Airlines",1,8,1
+"1532","Kivu Air Services",1,2,1
+"1533","Kiwi West Aviation",1,6,1
+"1534","KLM Cityhopper",1,3,0.125
+"1535","Knight Air",1,12,1
+"1536","Knowles Flying Service of Detroit",1,3,0.25
+"1537","Kodiak Western Alaska Airlines",1,4,1
+"1538","Komi Avia",1,14,0.933333333333333
+"1539","Kondair",1,1,1
+"1540","Krasnoyarskavia",1,10,0.833333333333333
+"1541","Krasnoyarskie Avialinii",1,20,1
+"1542","Kuban Airlines",1,36,1
+"1543","Kurtzer Flying Service - Taxi",1,2,1
+"1544","Kuwait Airways",1,2,0.0178571428571429
+"1545","L & J Company",1,6,0.230769230769231
+"1546","L.J. Simmons - Air Taxi",1,4,0.666666666666667
+"1547","L'Armí©e de L'Air",1,21,1
+"1548","L'Express Airlines",1,13,0.866666666666667
+"1549","Lí_der Tíçxi Aí©reo",1,4,1
+"1550","Lí_neas Aí©reas Suramericanas",1,3,1
+"1551","La Costena",1,16,1
+"1552","Lab Flying Service - Air Taxi",1,6,1
+"1553","Labradore Airways",1,4,1
+"1554","LAC Columbia",1,4,1
+"1555","Lackey Aero Company - Taxi",1,4,1
+"1556","LACOL",1,2,0.181818181818182
+"1557","LACSA",1,11,0.785714285714286
+"1558","Ladeco",1,36,1
+"1559","Lake Central Airlines",1,38,1
+"1560","Lake Havasu Air",1,6,1
+"1561","Lambair",1,2,1
+"1562","LANC Colombia",1,5,0.277777777777778
+"1563","Lancashire Aircraft Corporation (Skyways)",1,39,1
+"1564","Lao Cathay Airlines",1,10,0.833333333333333
+"1565","Laoag International Airlines",1,19,0.558823529411765
+"1566","LAPA, Lineas Aereas Privadas Argentinas",1,64,0.621359223300971
+"1567","LATI",1,10,1
+"1568","Lauda Air",1,223,1
+"1569","Laurentian Air Services",1,5,0.454545454545455
+"1570","LAV - Linea Aeropostal Venezolana",1,47,1
+"1571","Layman Weikle - Taxi",1,2,1
+"1572","Leadair - Charter",1,10,1
+"1573","Leamon Flying Service",1,3,1
+"1574","Lebanese International Airways",1,27,1
+"1575","Leeward Islands Air Transport",1,13,1
+"1576","Lehigh Acres Development Inc.",1,1,0.0303030303030303
+"1577","Les Ailes de Gaspí© Inc.",1,3,1
+"1578","Lester C. Bush - Air Taxi",1,3,0.375
+"1579","Lexington Air Taxi",1,9,1
+"1580","Liard Air",1,1,0.2
+"1581","Libya Arab Airlines",1,110,0.973451327433628
+"1582","Libya Arab Airlines / Military -  Libya Air Force",1,157,1
+"1583","Lina Congo",1,3,0.375
+"1584","Linair Express",1,7,0.777777777777778
+"1585","Linea Aí©rea Mexicana de Carga",1,2,0.5
+"1586","Linea Aí©rea Nacional",1,1,0.0333333333333333
+"1587","Linea Expresa Bolivar",1,4,1
+"1588","Lineas Aí©reas Brasil",1,5,0.166666666666667
+"1589","Lineas Aí©reas Cave",1,3,0.428571428571429
+"1590","Lineas Aí©reas Colombianas",1,7,1
+"1591","Lineas Aí©reas Costarricenses",1,2,1
+"1592","Lineas Aí©reas Costarricenses  LACSA",1,22,1
+"1593","Lineas Aí©reas Interpolar",1,8,1
+"1594","Lineas Aí©reas la Urraca",1,20,1
+"1595","Lineas Aí©reas Mineras",1,1,0.166666666666667
+"1596","Lineas Aí©reas Sud Americana",1,5,1
+"1597","Lineas Aí©reas Suramericanas",1,8,1
+"1598","Lineas Aí©reas Trans. Brasileira",1,2,0.105263157894737
+"1599","Lineas Aereas",1,20,1
+"1600","Lineas Aereas de Angola",1,29,1
+"1601","Lineas Aereas de Espana/Spantax SA Transportes",1,68,0.373626373626374
+"1602","Lineas Aereas de los Libertadores",1,8,0.888888888888889
+"1603","Lineas Aereas del Caribe",1,4,1
+"1604","Lineas Aereas del Estado",1,16,1
+"1605","Lineas Aereas Mineras",1,12,1
+"1606","Lineas Aereas Suramericanas",1,3,0.5
+"1607","Lineas Aereas Unidas",1,13,0.619047619047619
+"1608","Lineas Areas del Centro",1,18,0.857142857142857
+"1609","Lineas Areas Unidas",1,22,1
+"1610","Lineas Areas Venezolanas",1,34,1
+"1611","Linjefyg",1,31,0.720930232558139
+"1612","Lion Air",1,26,0.168831168831169
+"1613","Lionair",1,55,1
+"1614","Lisa Jet Inc. - Air Taxi",1,3,1
+"1615","Living Water Teaching Ministries Charter",1,11,0.611111111111111
+"1616","Livingston Helicopter - Air Taxi",1,5,1
+"1617","Lloyd Aereo Colombiano",1,37,0.725490196078431
+"1618","Lloyd Aero Boliviano",1,2,1
+"1619","Lockheed AC-130H Hercules",1,13,1
+"1620","Loma Linda University - Air Taxi",1,4,1
+"1621","Lone Star Airlines",1,3,1
+"1622","Luft-Taxi Emsland",1,6,0.857142857142857
+"1623","Lufthansa Cargo Airlines",1,5,1
+"1624","Lufthansa Cityline",1,4,0.173913043478261
+"1625","Lumbini Airways",1,18,1
+"1626","Luthi Aviation - Air Taxi",1,2,1
+"1627","Luxair",1,20,0.909090909090909
+"1628","Mabuhay Airways",1,1,0.125
+"1629","Macchi",1,13,1
+"1630","Macon Horizons - Air Taxi",1,4,1
+"1631","Maddux Airlines",1,16,1
+"1632","Maddux Airlines / Military - U.S.Army Air Force",1,6,1
+"1633","Madrid Taxi Aí©reo - Charter",1,9,1
+"1634","Magistralnye Avialinii",1,17,1
+"1635","MajestiAir Cargo",1,2,1
+"1636","MALERT",1,2,1
+"1637","Malert Airlines",1,12,1
+"1638","Malindi Air Services",1,2,1
+"1639","Mamer - Shreck  - Air Taxi",1,3,0.75
+"1640","Manacíç Tíçxi Aí©reo",1,5,1
+"1641","Manchurian Air Lines",1,18,1
+"1642","Mango Airlines",1,5,1
+"1643","Mannin Airways",1,8,0.888888888888889
+"1644","Manunggal Air",1,1,0.0526315789473684
+"1645","MAP - Ministerstvo Aviatsionnoi Promyshlennosti",1,9,0.9
+"1646","Marco Zero Air Taxi",1,5,1
+"1647","MarkAir Commuter",1,1,1
+"1648","MaRoberston-Miller Airlines",1,18,1
+"1649","MaRobertson Miller Airlines",1,2,0.181818181818182
+"1650","MaRobertson-Miller Airlines",1,26,1
+"1651","Marsland Aviation",1,7,0.166666666666667
+"1652","Maryland State Police",1,4,0.8
+"1653","MATS - Manila Aero Transport System",1,7,0.291666666666667
+"1654","Mavrik Aire Transport",1,1,0.333333333333333
+"1655","Mayoral Executive Jet",1,1,0.5
+"1656","McCoy Flying Service - Taxi",1,2,0.166666666666667
+"1657","McKenzie Flying Service - Air Taxi",1,3,1
+"1658","McKinley Air Service - Air Taxi",1,4,1
+"1659","MD Air Services",1,6,1
+"1660","Med Flight Air Ambulance - Private",1,5,1
+"1661","Mercer Airlines",1,3,0.5
+"1662","Mercury Aviation",1,13,1
+"1663","MerriAviation - Air Taxi",1,4,1
+"1664","Metro Air Systems",1,11,1
+"1665","Metro Aviation",1,3,1
+"1666","Metro Cargo",1,4,0.4
+"1667","Metro Commuter - Air Taxi",1,5,1
+"1668","Mexican Government",1,8,1
+"1669","Mid Continent Airlines",1,16,0.64
+"1670","Mid Island Air - Air Taxi",1,3,1
+"1671","Mid PacifiAir",1,2,1
+"1672","Mid-AtlantiFreight",1,1,1
+"1673","Middle East Airlines / Military - Turkish Air ForceC-47",1,17,1
+"1674","Middle States Airlines",1,4,1
+"1675","Midwest Express",1,31,1
+"1676","Mililtary - Royal Canadian Air Force",1,7,1
+"1677","Mililtary - Soviet Air Force",1,20,1
+"1678","Mililtary - U.S. Navy",1,12,1
+"1679","Military -  (2) U.S. Army Air Forces",1,20,1
+"1680","Military - Algerian Air Force",1,4,1
+"1681","Military - Angolan  Air Force",1,5,0.125
+"1682","Military - Angolan Armed Forces",1,20,0.8
+"1683","Military - Argentine Navy",1,12,1
+"1684","Military - Armí©e de l'Air Malgache",1,13,1
+"1685","Military - Australian Army Aviation",1,18,0.642857142857143
+"1686","Military - British Air Ministry",1,48,0.888888888888889
+"1687","Military - Burma Air Force",1,17,1
+"1688","Military - Canadian Air Force",1,9,1
+"1689","Military - Canadian Army",1,11,1
+"1690","Military - Centrafricain Airlines",1,24,1
+"1691","Military - Chadian Air Force",1,5,0.714285714285714
+"1692","Military - Chilian Navy",1,11,1
+"1693","Military - Colombian government",1,20,1
+"1694","Military - Corrieri Aerei Militari",1,16,1
+"1695","Military - Cuban Air Force",1,29,1
+"1696","Military - Deutsche Luftwaffe",1,40,1
+"1697","Military - Dostum-Galboddin Militia",1,50,0.714285714285714
+"1698","Military - El Salvador Air Force",1,37,1
+"1699","Military - Federal Nigerian Air Force",1,158,1
+"1700","Military - Finish Air Force",1,15,1
+"1701","Military - Florida Army National Guard",1,21,1
+"1702","Military - Forí_a Aí©rea Brasileira",1,20,1
+"1703","Military - Forí_a Aí©rea Portuguesa",1,21,0.6
+"1704","Military - Force Aí©rienne Zaí¿roise",1,36,1
+"1705","Military - Forces Militaires Franí_aises",1,37,1
+"1706","Military - French Navy",1,52,1
+"1707","Military - Fuerza Aí©rea Argentina",1,6,1
+"1708","Military - Fuerza Aí©rea Colombiana",1,7,1
+"1709","Military - Fuerza Aí©rea de Chile",1,14,1
+"1710","Military - Fuerza Del Peru",1,13,1
+"1711","Military - German Air National Guard",1,4,1
+"1712","Military - Government of Equatorial Guinea",1,13,1
+"1713","Military - Government of Macedonia",1,9,1
+"1714","Military - Greek Air Force",1,5,1
+"1715","Military - Greek Army",1,17,1
+"1716","Military - Guatemalan Air Force",1,25,0.925925925925926
+"1717","Military - HelleniAir Force",1,63,1
+"1718","Military - Indian Navy",1,12,1
+"1719","Military - IslamiRevolution's Guards Corps",1,275,1
+"1720","Military - Israel  Air Force",1,20,1
+"1721","Military - Israel Air Force",1,54,1
+"1722","Military - Israel Air Force /Military -  Israel Air Force",1,73,1
+"1723","Military - Japan Air Self Defense Force",1,10,1
+"1724","Military - Japanese Air Self-Defence Force",1,5,1
+"1725","Military - Kenya Air Force",1,14,0.823529411764706
+"1726","Military - Kenyan Air Force",1,46,1
+"1727","Military - Kuwait Air Force",1,8,1
+"1728","Military - Lao People's Liberation Army Air Force",1,26,1
+"1729","Military - Luftwaffe",1,10,1
+"1730","Military - Luftwaffe / Military - USAF",1,33,1
+"1731","Military - Lybian Arab Air Force",1,6,1
+"1732","Military - Macedonian Air Force",1,11,1
+"1733","Military - Madagascar Air Force",1,34,1
+"1734","Military - Malaysian Air Force",1,5,1
+"1735","Military - Niger Air Force",1,14,1
+"1736","Military - People's Army/ Military - Peoples Air Force",1,24,1
+"1737","Military - People's Liberation Army",1,16,1
+"1738","Military - Peruvian Air Force - TANS",1,8,0.195121951219512
+"1739","Military - Peruvian Army Aviation",1,23,1
+"1740","Military - Peruvian Naval Aviation",1,42,0.976744186046512
+"1741","Military - Royal Airship Works",1,46,1
+"1742","Military - Royal HelleniAir Force",1,23,0.851851851851852
+"1743","Military - Royal Lao Air Force",1,35,1
+"1744","Military - Royal Lesotho Defence Force",1,18,1
+"1745","Military - Royal Netherlands East Indies Air Force",1,20,1
+"1746","Military - Royal Netherlands Naval Air Service",1,1,1
+"1747","Military - Royal Norwegian Air Force",1,19,1
+"1748","Military - Russian",1,18,1
+"1749","Military - Russian Air Force / Military - Russian Air Force",1,77,0.927710843373494
+"1750","Military - Russian Air Force/Uzbekistan Airways",1,15,1
+"1751","Military - Russian Army",1,12,0.8
+"1752","Military - Russian Navy",1,17,0.85
+"1753","Military - Russian, cargo",1,18,1
+"1754","Military - Salvadoran Air Force",1,28,1
+"1755","Military - Salvadorian Air Force",1,12,0.857142857142857
+"1756","Military - Servicio Aereo Nacional",1,11,0.916666666666667
+"1757","Military - Slovak Air Force",1,42,0.976744186046512
+"1758","Military - Soviet Navy",1,52,1
+"1759","Military - Spanish Air Force.",1,22,1
+"1760","Military - Sudanese Air Force",1,91,1
+"1761","Military - Taliban Militia",1,20,1
+"1762","Military - Tentara Nasional Indonesia Navy",1,9,1
+"1763","Military - Thai Army",1,10,1
+"1764","Military - U. S. Air Force",1,36,1
+"1765","Military - U. S. Navy",1,42,1
+"1766","Military - U.S.  Air Force / Military - U.S. Navy",1,47,0.959183673469388
+"1767","Military - U.S. Air Force / Military -  U.S. Air Force",1,16,1
+"1768","Military - U.S. Air Force / Military -  U.S. Army",1,25,1
+"1769","Military - U.S. Air Force / Military U.S. Air Force",1,0,0
+"1770","Military - U.S. Air Force/Military - U.S. Air Force",1,18,1
+"1771","Military - U.S. Army / Military U.S. Army",1,26,1
+"1772","Military - U.S. Army Air Corps",1,13,1
+"1773","Military - U.S. Army Air Force",1,19,0.575757575757576
+"1774","Military - U.S. Army Air Forces / Military - U.S. Army Air Forces",1,25,1
+"1775","Military - U.S. Army Air Service",1,34,0.755555555555556
+"1776","Military - U.S. Marines",1,31,1
+"1777","Military - U.S. Navy / Military -  U.S. Navy",1,27,1
+"1778","Military - U.S. Navy / NASA",1,16,0.941176470588235
+"1779","Military - Ukraine Air Force",1,0,0
+"1780","Military - Unified Yemen Air Force",1,57,1
+"1781","Military - United States Air Force",1,5,1
+"1782","Military - United States Marine Corps",1,4,1
+"1783","Military - Uruguayan Air Force",1,44,1
+"1784","Military - US Air Force",1,10,0.909090909090909
+"1785","Military - US Army",1,12,1
+"1786","Military - Vietnamese Air Force / Military - U.S. Army",1,18,1
+"1787","Military - West German Air Force",1,35,0.875
+"1788","Military - Zambia Air Force",1,13,1
+"1789","Military - Zimbabwe Air Force",1,17,1
+"1790","Military Soviet  Air Force - Aeroflot",1,120,1
+"1791","Military U.S. Navy",1,0,0
+"1792","Military U.S. Navy / Military - U.S. Navy",1,28,1
+"1793","Million Air",1,4,1
+"1794","Miltiary - U.S. Airforce",1,6,1
+"1795","Mimika Air",1,11,1
+"1796","Mineral County Airlines",1,35,1
+"1797","Minerva Airlines",1,4,0.129032258064516
+"1798","Ministerstvo Obshchestvo Mashinostroyeniya",1,9,1
+"1799","MMM Aero Services",1,30,1
+"1800","Moldovan Aeriantur-M Air Cargo",1,34,0.971428571428571
+"1801","Monarch Aviation",1,3,1
+"1802","Mongolian Defense Ministry",1,15,0.681818181818182
+"1803","Monmouth Airways",1,4,0.5
+"1804","Monument Valle - Air Taxi",1,2,1
+"1805","Moore's Air Charter",1,12,1
+"1806","Morningstar Air Express",1,1,1
+"1807","Morris Hancock Flying Club - Charter",1,3,1
+"1808","Moskovia Airlines",1,9,1
+"1809","Moyer Aviation - Air Taxi",1,4,1
+"1810","Mt. McKinley Airfreight",1,4,1
+"1811","Mustang Aviati",1,5,1
+"1812","Mustique Airways",1,1,0.1
+"1813","Nacional de Aviacion",1,18,1
+"1814","Naftogaz",1,20,1
+"1815","Nahanni Air Services",1,7,1
+"1816","Nash and Tampo - Air Taxi",1,5,1
+"1817","Naske Air",1,3,1
+"1818","Nationair (chartered by Nigeria Airways)",1,261,1
+"1819","National Air Operators",1,3,1
+"1820","National Air Transport Services",1,13,1
+"1821","National Airways",1,3,0.272727272727273
+"1822","National Jet Services Inc.,  (Air Indiana)",1,29,1
+"1823","National Parks Airways",1,7,1
+"1824","Nationwide Air Transport",1,3,0.130434782608696
+"1825","Naturelink",1,1,0.333333333333333
+"1826","Navegacao Aerea Brasileira",1,11,1
+"1827","Naysa Aerotaxis",1,8,0.888888888888889
+"1828","NC Simpson - Taxi",1,4,1
+"1829","New  York Helicopter",1,4,0.16
+"1830","New England Airlines",1,8,1
+"1831","New England Airways",1,3,1
+"1832","New England Aviaiton",1,4,1
+"1833","New Standard Airlines",1,4,1
+"1834","NewCal Aviation",1,3,1
+"1835","NFD - Nurnberger Flugdienst",1,21,1
+"1836","NHR Tíçxi-Aí©reo",1,2,1
+"1837","Nightexpress",1,2,1
+"1838","Nile Delta Air Services",1,18,1
+"1839","NLM (Nederlandse Luchtvaart Maatschappij)",1,17,1
+"1840","Nordchurchaid",1,5,1
+"1841","Nordeste Linhas Aereas",1,15,1
+"1842","Norilsk Flight Company",1,15,1
+"1843","Norte Jet Tíçxi Aí©reo",1,2,1
+"1844","North American Sabreliner 40",1,11,1
+"1845","North Bay Charter",1,10,1
+"1846","North Canada Air",1,1,0.5
+"1847","North Cay Air - Air Taxi",1,2,1
+"1848","North Cay Airways",1,2,1
+"1849","North Central Airlines",1,27,0.6
+"1850","North Central Airlines / Air Wisconsin",1,13,1
+"1851","North Central Airlines / Private",1,3,0.2
+"1852","North Coast Aviation",1,4,1
+"1853","North Continental Airlines (Robin Airlines)",1,29,1
+"1854","North East Bolivian Airways",1,1,0.333333333333333
+"1855","North PacifiAirlines",1,9,1
+"1856","North Queensland Airways",1,5,0.555555555555556
+"1857","North Sea Aerial and General Transport",1,1,1
+"1858","North Sound Aviation",1,7,1
+"1859","North Star Air Cargo",1,1,1
+"1860","North Western Air Transport",1,13,1
+"1861","Northern Air (Tanzania)",1,12,1
+"1862","Northern Air Cargo",1,4,1
+"1863","Northern Executive Aviation",1,2,0.4
+"1864","Northern Illinois Flight Center",1,2,0.333333333333333
+"1865","Northern Thunderbird Air",1,7,1
+"1866","Northern Thunderbird Air Ltd.",1,12,1
+"1867","Northern Wings",1,3,1
+"1868","Northwest Airlines",1,154,0.993548387096774
+"1869","Northwest Airlines/ Northwest Airlines",1,8,0.0404040404040404
+"1870","Northwest Airlink",1,9,0.409090909090909
+"1871","Northwest Airways",1,1,1
+"1872","Northwest Moon - Air Taxi",1,3,1
+"1873","Nuna Air",1,8,1
+"1874","NY, Phil., Washington AW",1,5,1
+"1875","Nyika Safaris",1,6,1
+"1876","Ocean Airlines",1,1,0.0625
+"1877","Oceanaire Helicopter - Air Taxi",1,4,1
+"1878","Oefag Flugdienst",1,9,1
+"1879","Oeste Linhas Aereas",1,6,1
+"1880","Okada Air",1,4,0.0754716981132075
+"1881","Okanagan Helicopters",1,13,1
+"1882","OlympiAviation",1,34,1
+"1883","One-Two-Go Airlines",1,90,0.692307692307692
+"1884","Onzeair",1,4,1
+"1885","Orcon Inc. - Air Taxi",1,2,0.666666666666667
+"1886","Orient Air System and Integrated Services",1,1,0.125
+"1887","Oriental Airlines",1,5,0.128205128205128
+"1888","Orion - Air Taxi",1,4,1
+"1889","Orlando Airways - Air Taxi",1,4,1
+"1890","Ortner Air Service - Taxi",1,2,1
+"1891","Overseas National Airways",1,2,0.5
+"1892","Oxaero Ltd.",1,4,0.571428571428571
+"1893","Ozark Air Lines",1,38,0.863636363636364
+"1894","Ozark Air Lines / Private",1,2,0.0392156862745098
+"1895","PacifiAir",1,2,1
+"1896","PacifiAirways",1,1,1
+"1897","PacifiAlaska Air Freight",1,17,1
+"1898","PacifiAlaska Airlines",1,3,1
+"1899","PacifiCoast Airlines",1,5,0.714285714285714
+"1900","PacifiNorthern Airlines",1,14,1
+"1901","PacifiOverseas Airways",1,24,1
+"1902","PacifiSouthwest Airlines / Private",1,137,1
+"1903","Page Airways",1,6,0.461538461538462
+"1904","Pakair",1,26,1
+"1905","Pakistan Airways",1,21,1
+"1906","Palair Macedonian",1,83,0.855670103092783
+"1907","Pan African Airlines",1,57,1
+"1908","Pan American Airways (Scadta)",1,5,0.833333333333333
+"1909","Pan American World Airways / KLM",1,583,0.90527950310559
+"1910","Pan ArctiOil",1,32,0.941176470588235
+"1911","Pan International",1,22,0.181818181818182
+"1912","Pan Malaysian Air Transport",1,16,1
+"1913","Panair do Brazil",1,15,0.142857142857143
+"1914","Panorama Air Tour",1,8,1
+"1915","Papillon Grand Canyon Helicopters of Las Vegas",1,6,0.857142857142857
+"1916","Paradise Air",1,9,1
+"1917","Paradise Airlines",1,85,1
+"1918","Paradise Tour Helicopters",1,4,1
+"1919","Paraense Transportes Aereos",1,38,0.95
+"1920","Paramount Airlilnes",1,21,0.954545454545455
+"1921","Parsa",1,10,1
+"1922","Partnair",1,55,1
+"1923","Patagonia Airlines",1,10,1
+"1924","Pathet Lao Airlines",1,18,1
+"1925","Patuxent Airways / Private",1,11,1
+"1926","Paukn Air",1,38,1
+"1927","Paul Kelly Flying Service Inc.",1,8,1
+"1928","Pavair",1,2,1
+"1929","Pel Air",1,2,1
+"1930","PENAS",1,6,0.666666666666667
+"1931","Peninsula Air Services",1,6,1
+"1932","Peninsular",1,28,0.378378378378378
+"1933","Penninsula Airways - Air Taxi",1,4,1
+"1934","Pennsylvania Airlines",1,1,0.0333333333333333
+"1935","Perimeter Airlines",1,2,0.666666666666667
+"1936","Permaviatrans",1,24,1
+"1937","Perris Valley Aviation",1,16,0.727272727272727
+"1938","Petroleum Helicopters Inc",1,8,0.888888888888889
+"1939","Petrolium Helicopter",1,11,1
+"1940","Petrolium Helo Inc.",1,5,1
+"1941","Petroproduccií_n",1,26,1
+"1942","PHI Air Medical",1,4,1
+"1943","Philippine Air Express",1,5,1
+"1944","Phillips Flying Service - Air Taxi",1,4,1
+"1945","Phoenix Air",1,2,1
+"1946","Phoenix Airlines",1,2,0.5
+"1947","Phoenix Aviation",1,5,1
+"1948","Pickwick Airways",1,1,0.5
+"1949","Pinnacle Airlines/Northwest Airlink",1,2,1
+"1950","Plane Sailing",1,4,0.222222222222222
+"1951","Planemasters",1,1,1
+"1952","PMT Air",1,22,1
+"1953","Points North Air Services",1,2,1
+"1954","Portsmouth Aviation - Air Taxi",1,2,0.5
+"1955","President Airlines",1,83,1
+"1956","Presidental Airways Inc. - Air Taxi",1,6,1
+"1957","Prestige Airlines (Cargo) Charter",1,25,0.925925925925926
+"1958","Price Aircraft Company",1,6,1
+"1959","Prior Aviatoin - Air Taxi",1,3,1
+"1960","Priority Air - Air Taxi",1,3,1
+"1961","Priorty Air Charter",1,1,1
+"1962","Private  - Daewoo Shipbuilding",1,8,0.666666666666667
+"1963","Private - Air Taxi",1,2,0.4
+"1964","Private - Ashland Oil Company",1,13,1
+"1965","Private - Boeing Aircraft Company",1,10,1
+"1966","Private - Corporate",1,8,1
+"1967","Private - de Havilland Aircraft",1,1,1
+"1968","Private - Facilities Management Co.",1,9,1
+"1969","Private - Hendrick Motorsports Inc.",1,10,1
+"1970","Private - Kabanov - skydiving",1,11,0.44
+"1971","Private - Mainline Aviation",1,4,1
+"1972","Private - Omniflight Helicopters",1,5,1
+"1973","Private - OverteCompany",1,13,1
+"1974","Private - Parajump air show",1,11,0.916666666666667
+"1975","Private - Purdue Reasearch Foundation",1,2,1
+"1976","Private - Techint  group",1,10,1
+"1977","Private - WNBC",1,2,1
+"1978","Private air taxi",1,4,1
+"1979","Private KNBC Los Angeles",1,2,1
+"1980","Private Wings",1,10,1
+"1981","Procuradoria General de la Republica",1,7,1
+"1982","Procuradurí_a General de la Repí_blica",1,5,0.294117647058824
+"1983","Procurator Generale de la Republica",1,10,1
+"1984","Professional Aviation Services",1,3,0.176470588235294
+"1985","Propair",1,11,1
+"1986","Prospec",1,3,1
+"1987","Proteus Air / Private",1,15,1
+"1988","Provincial Air Services",1,4,1
+"1989","Provincial Airlines",1,1,0.5
+"1990","PT Air Regional",1,4,0.25
+"1991","Ptarmigan Airways",1,2,1
+"1992","Pudget Sound Air - Air Taxi",1,10,1
+"1993","Pulkovo Airlines",1,170,1
+"1994","Pulkovo Aviation Enterprise",1,14,0.875
+"1995","Purdue Airlines Inc.",1,1,0.037037037037037
+"1996","Quakertown Aviation - Air Taxi",1,4,1
+"1997","Queen Airmotive - Air Taxi",1,4,1
+"1998","Rí©seau Aí©rien Interinsulaire",1,15,1
+"1999","Radeair",1,8,0.888888888888889
+"2000","RAM",1,3,1
+"2001","Rambar Aviation - Air Taxi",1,4,1
+"2002","Ray A. Gardner - Taxi",1,3,1
+"2003","Raytheon Aircraft",1,3,1
+"2004","RCMP-GRC Air Services",1,2,1
+"2005","REAL / Military - U.S. Navy",1,61,1
+"2006","Reali Taxi Aereo",1,2,1
+"2007","Red Aircraft Service - Air Taxi",1,4,1
+"2008","Red Bank Air Taxi",1,9,1
+"2009","Red Carpet Flying Service - Air Taxi",1,4,1
+"2010","Reed Aviation - Air Taxi",1,5,1
+"2011","Reeder Flying Service",1,5,0.185185185185185
+"2012","Reeve Aleutian Airlines",1,16,1
+"2013","Regency Express Air",1,2,1
+"2014","Regional Airlines",1,28,0.538461538461538
+"2015","Regional Compagnie Aerienne Europeenne",1,0,0
+"2016","Regionnair",1,1,0.25
+"2017","Renan Airways",1,5,1
+"2018","RepubliAirlines",1,1,0.0303030303030303
+"2019","Resort Air Service - Air Taxi",1,2,1
+"2020","Resort Airlines",1,25,0.609756097560976
+"2021","Revilla Flying Service - Air Taxi",1,5,1
+"2022","Reynolds Airways",1,7,0.583333333333333
+"2023","Rhoadgs Aviation - Air Taxi",1,2,1
+"2024","Richland Aviation  - Taxi",1,6,1
+"2025","Richland Flying Service - Air Taxii",1,3,0.75
+"2026","Richmor Aviation",1,2,1
+"2027","Rico Linhas Aereas",1,33,1
+"2028","Rico Taxi Aí©reo",1,23,0.741935483870968
+"2029","Rico Taxi Aero",1,8,0.5
+"2030","Rijnmond Air Services",1,10,1
+"2031","Rimouski Airlines",1,26,1
+"2032","Rinaldo Piaggio",1,6,1
+"2033","Riverside Air",1,5,1
+"2034","Roadrunner Airlines",1,5,1
+"2035","Robinson Airlines",1,16,0.695652173913043
+"2036","Rocky Mountain Airways",1,2,0.0909090909090909
+"2037","Romanian Banat Air",1,49,1
+"2038","Ross Aviation - Air Taxi",1,9,1
+"2039","Rotor Airs In- Air Taxi",1,6,0.857142857142857
+"2040","Rotorcraft Leasing Co",1,3,1
+"2041","Rousseau Aviaiton",1,31,1
+"2042","Royal American - Air Taxi",1,2,1
+"2043","RRC Air Service",1,16,1
+"2044","Rubner Flying Service",1,2,0.666666666666667
+"2045","Ruiban & Duran Compania Aí©rea",1,4,0.4
+"2046","Russ Air Transport Company",1,10,1
+"2047","Rusts Flying Service Inc.",1,5,1
+"2048","Rutaca",1,10,1
+"2049","Rutaca Airlines",1,24,1
+"2050","Rutas Aí©reas Nacionales SA",1,3,1
+"2051","Rutas Internacionales Peruanes",1,7,1
+"2052","Rwanda Government",1,12,1
+"2053","Ryan Blake Air Charter",1,14,1
+"2054","Ryan International Airlines",1,2,1
+"2055","SA Amazonica",1,6,0.2
+"2056","Sabeni",1,2,1
+"2057","SADELCA",1,14,1
+"2058","Sadia",1,21,0.84
+"2059","SAESA",1,23,1
+"2060","Safe Air Cargo",1,4,1
+"2061","Safe Air Complany",1,3,1
+"2062","Safeway Airways",1,4,1
+"2063","Sahara",1,4,1
+"2064","Saint Lawrence Airways",1,6,1
+"2065","Salida Flying Service - Air Taxi",1,6,1
+"2066","Salmon Air - Air Taxi",1,2,1
+"2067","SAMSA",1,25,0.543478260869565
+"2068","SAN Ecuador",1,8,0.08
+"2069","San Juan Air",1,1,1
+"2070","Sankuru Air Service",1,5,0.555555555555556
+"2071","Santa Barbara Airlines",1,46,1
+"2072","Sarit Airlines",1,4,1
+"2073","Saskatchewan Government Northern Air Operations",1,1,0.333333333333333
+"2074","Saudi Arabian Airlines / Kazastan Airlines",1,349,1
+"2075","Saudi Arabian Royal Flight",1,18,1
+"2076","Savannair",1,14,1
+"2077","SAVIARE S.A. - Air Taxi",1,6,1
+"2078","Scandinavian Airlines (SAS) / Private",1,114,1
+"2079","Scanex Air",1,10,1
+"2080","SceniAir Lines",1,10,1
+"2081","SceniAirline - Air Taxi",1,2,1
+"2082","Sea Airmotive",1,3,1
+"2083","Seattle Air Charter",1,14,0.466666666666667
+"2084","Seaview Aviation",1,9,1
+"2085","SeaWind Aviation",1,6,0.6
+"2086","Security Air",1,7,1
+"2087","SELVA Colombia",1,3,0.375
+"2088","Selva Taxi Aero",1,5,0.208333333333333
+"2089","SEMAF",1,12,1
+"2090","Sempati Air",1,30,0.6
+"2091","Senegalair",1,6,0.6
+"2092","Servant Air",1,6,0.6
+"2093","Servicio Aí©reo Panini",1,5,0.555555555555556
+"2094","Servicio Aereo Columbiano / SCADTA",1,17,0.85
+"2095","Servicio Aereo Manchupo",1,6,1
+"2096","Servicio Expresso Nacional",1,9,1
+"2097","Servicios Aí©reos Boliviano",1,4,1
+"2098","Servicios Aí©reos Cochabamba",1,4,1
+"2099","Servicios Aí©reos Especiales",1,26,1
+"2100","Servicios Aereas Virgen de Copacabana",1,1,0.125
+"2101","Servicios Aereos Martinez Leon",1,13,1
+"2102","Servicios Aereos Nacionales",1,24,1
+"2103","Servicios Aereos Nacionales Airways",1,33,1
+"2104","Servicios Aereos Santa Ana",1,10,1
+"2105","Servicios Aeronauticos Sucre (SASCA)",1,1,0.0625
+"2106","Servicios Americanos",1,2,1
+"2107","Seventy Airways - Air Taxi",1,3,1
+"2108","SFC Vietnam - Charter - Full Account",1,16,1
+"2109","Shanair Inc. - Air Taxi",1,2,0.666666666666667
+"2110","Shangri La Air",1,18,1
+"2111","Shanxi Airlines",1,42,0.91304347826087
+"2112","Shell Co of Ecuador",1,34,1
+"2113","Shelter Cove Sea Park",1,17,0.708333333333333
+"2114","Si Fly - U.N. charter",1,24,1
+"2115","Siamese Airways",1,16,1
+"2116","Sibir (S7)",1,128,0.630541871921182
+"2117","Sierra PacifiAirlines",1,36,1
+"2118","SilkAir",1,104,1
+"2119","Silver City Airways",1,35,0.833333333333333
+"2120","Simmons Airlines",1,3,0.333333333333333
+"2121","Simpson Air Service - Air Taxi",1,9,1
+"2122","Sinquanon Management - Air Taxi",1,2,0.666666666666667
+"2123","Skagway Air Service - Air Taxi",1,6,1
+"2124","Skips Air Service - Air Taxi",1,3,1
+"2125","Sky Cabs",1,6,0.75
+"2126","Sky Chopper  - Air Taxi",1,2,1
+"2127","Sky Executive Air Services",1,5,1
+"2128","Sky Haven - Air Taxi",1,2,1
+"2129","Sky Train Air",1,3,1
+"2130","Skycraft Air Transport",1,1,0.5
+"2131","Skydive Salt Lake - Charter",1,9,1
+"2132","Skyline Aviation - Air Taxi",1,4,1
+"2133","Skyline Sweden",1,22,1
+"2134","Skyline Transportation Company",1,1,1
+"2135","Skylink Airlines",1,7,1
+"2136","Skystream Airlines",1,2,1
+"2137","Skyvan Airways",1,1,0.5
+"2138","Skyward Aviation",1,2,1
+"2139","Skyway Air  - Taxi",1,2,1
+"2140","Skyways",1,3,1
+"2141","Skywest Airlines / Private.",1,10,1
+"2142","Skyworld Airlines (Ports of Call Inc.)",1,1,0.00740740740740741
+"2143","SL Aviation Services",1,2,1
+"2144","Slick Airways - Cargo",1,3,1
+"2145","Smithers Air Service",1,3,0.75
+"2146","Smyer Aircraft - Air Taxi",1,2,1
+"2147","Snow Valley Ski Lines",1,1,0.0333333333333333
+"2148","Soc. de Tr. Aí©riens d'ExtríÈme Orient",1,4,1
+"2149","Socií©tí© Aí©rienne de Tr. Tropicaux",1,17,0.80952380952381
+"2150","Socií©tí© Auxiliare de Navigation Aí©rienne",1,2,1
+"2151","Socií©tí© de Transports Aí©riens",1,4,1
+"2152","Sociedade de Aviacao Ligeira Charter",1,16,0.941176470588235
+"2153","Societíæ Aerea Teseo",1,7,0.7
+"2154","Societa Aerea Mediterranea",1,5,1
+"2155","Societe Aerienne du Littoral",1,41,0.953488372093023
+"2156","Societe Alpes Provence",1,39,1
+"2157","Societe France Hydro",1,16,1
+"2158","Societe Indochinoise de Raviteillement",1,16,0.695652173913043
+"2159","Societe Indochinoise de Transport Aeriens",1,4,1
+"2160","Societe Transatlantique Aerienne",1,14,1
+"2161","Socotra",1,1,0.0416666666666667
+"2162","Soldotna Air Services",1,7,1
+"2163","SoniBlue Airways",1,3,0.375
+"2164","Sosoliso Airlines",1,108,0.990825688073395
+"2165","Soundsair",1,5,0.833333333333333
+"2166","South Central Airlines",1,10,1
+"2167","Southeast Airlines",1,10,1
+"2168","Southeast Sky - Air Taxi",1,4,1
+"2169","Southeast Skyways - Air Taxi",1,3,1
+"2170","Southern Air Transport",1,3,1
+"2171","Southern Cross Airways",1,5,1
+"2172","Southern Express",1,1,0.5
+"2173","Southern Jersey Air - Air Taxi",1,3,1
+"2174","Southern Sudan Air Connection",1,24,1
+"2175","Southwest Airlift",1,2,1
+"2176","Southwest Airways",1,22,1
+"2177","Southwest Aviation - Air Taxi",1,4,1
+"2178","Southwest Medivac",1,5,1
+"2179","Sowind Air",1,4,0.235294117647059
+"2180","Spair Air Transport",1,12,1
+"2181","Spanair",1,154,0.895348837209302
+"2182","Spanish Air Force",1,11,1
+"2183","Spartan Air Services",1,2,0.666666666666667
+"2184","Speed Service Couriers",1,1,0.5
+"2185","Spencer Airways / Ceskoslovenske Aerolinie",1,12,0.521739130434783
+"2186","Spernak Airway - Air Taxi",1,4,1
+"2187","Spernak Airways - Air Taxi",1,4,1
+"2188","STAAP",1,9,1
+"2189","Staer Air",1,27,1
+"2190","Standard Airlines",1,35,0.729166666666667
+"2191","STAP",1,10,0.526315789473684
+"2192","Star Aviation",1,9,1
+"2193","Starair",1,2,1
+"2194","Starways",1,1,0.333333333333333
+"2195","STASA",1,1,0.333333333333333
+"2196","State Airlines",1,6,1
+"2197","Stavropol Airlines",1,50,1
+"2198","Stikine Air Service - Air Taxi",1,2,0.4
+"2199","Strait Air",1,1,1
+"2200","Straits Air Freight Express",1,4,1
+"2201","Straley Flying Service - Air Taxi",1,2,1
+"2202","Strato Freight",1,53,0.654320987654321
+"2203","Stratofreight",1,3,1
+"2204","Streamline",1,1,0.5
+"2205","Suburban Airlines - Air Taxi",1,4,1
+"2206","Sudania Air Cargo",1,10,1
+"2207","SUDENE",1,12,1
+"2208","Summit Air Charters",1,3,1
+"2209","Sun Valley Airways - Air Taxi",1,4,1
+"2210","Sun West Airline - Air Taxi",1,4,0.666666666666667
+"2211","Sunbeam Air Transport Co.",1,5,1
+"2212","Sundance Helicopters",1,7,1
+"2213","Sunflower Airlines",1,11,0.785714285714286
+"2214","SunQuest Executive Air Charter",1,2,1
+"2215","Superior Airways",1,3,1
+"2216","Superior Aviation",1,1,1
+"2217","Surinam Airways",1,176,0.941176470588235
+"2218","Survair",1,4,0.4
+"2219","Svedijos Prekí©s",1,3,1
+"2220","Svenska Aero",1,10,1
+"2221","SW Air Rangers - Air Taxi",1,3,1
+"2222","Swedish Air Force",1,8,1
+"2223","Swifair",1,2,1
+"2224","Swift Aire Lines Inc.",1,3,0.428571428571429
+"2225","Syktyvkar Avia",1,15,0.9375
+"2226","Syrian Arab Airlines",1,1,0.0526315789473684
+"2227","T & G Aviation",1,5,1
+"2228","T.A. Intercontinentaux",1,46,0.821428571428571
+"2229","T.A. Intercontinentaux (France)",1,53,0.815384615384615
+"2230","TAA",1,3,0.375
+"2231","TABSO",1,18,1
+"2232","TAC Colombia",1,19,1
+"2233","TACA International Airlines",1,3,0.0220588235294118
+"2234","TACSA",1,9,0.818181818181818
+"2235","TACV-Cabo Verde Airlines",1,18,1
+"2236","Tadair",1,2,1
+"2237","TAG Airlines",1,9,1
+"2238","Taiwan Aviation",1,18,1
+"2239","Talia Airways",1,15,1
+"2240","TAM (Peru)",1,22,0.846153846153846
+"2241","TAM Paraguay",1,1,0.037037037037037
+"2242","Tamair",1,2,0.666666666666667
+"2243","TAME Ecuador",1,7,1
+"2244","Tampa Air Center - Air Taxi",1,3,1
+"2245","TAMPA Colombia",1,3,1
+"2246","TAN Honduras",1,3,1
+"2247","TanaMana Aviation",1,4,0.363636363636364
+"2248","Tanana Air Taxi",1,2,0.4
+"2249","TANS Airlines",1,46,1
+"2250","TANS Peru",1,40,0.408163265306122
+"2251","Tanzania Aviation",1,10,1
+"2252","Taos Airways - Air Taxi",1,3,1
+"2253","TAP (Air Portugal)",1,131,0.798780487804878
+"2254","Taquan Air Service",1,5,1
+"2255","TAR",1,4,1
+"2256","Tar Heel Aviation",1,2,1
+"2257","TARS",1,13,0.5
+"2258","Tartarstan Airlines",1,41,1
+"2259","Tashkent Aircraft Production Corporation",1,5,0.714285714285714
+"2260","TASSA",1,1,0.0357142857142857
+"2261","Tassili Airlines",1,1,0.2
+"2262","TAUSA",1,12,1
+"2263","Taxair",1,8,1
+"2264","Taxi Aí©reo Cesar Aguiar",1,8,1
+"2265","Taxi Aí©reo del Guaviare",1,7,1
+"2266","Taxi Aí©reo el Venado",1,2,0.166666666666667
+"2267","Taxi Aí©reo Kovacs",1,9,1
+"2268","Taxi Aereo de Santander",1,28,1
+"2269","Taxi Aereo El Venado",1,3,1
+"2270","Taxval",1,1,1
+"2271","Team Air",1,19,1
+"2272","Tech - Aeronautical Explotiation",1,22,1
+"2273","Temesco Helicopter - Air Taxi",1,3,1
+"2274","Temsco Airlines",1,4,1
+"2275","Temsco Helicopter - Air Taxi",1,3,0.75
+"2276","Tepper Aviation",1,5,1
+"2277","Terry Air Inc.",1,3,1
+"2278","Texas International Airlines",1,11,1
+"2279","Thai International",1,24,0.3
+"2280","Theif River Aviation - Air Taxi",1,4,1
+"2281","Tierra del Fuego Province",1,12,1
+"2282","Tiramavia",1,1,0.1
+"2283","Titan Airways",1,2,1
+"2284","TMK Air Commuter",1,22,1
+"2285","Toa DomestiAirline (Japan)",1,68,1
+"2286","Tomahawk Airways",1,6,0.666666666666667
+"2287","Top Air - Air Taxi",1,4,1
+"2288","Total",1,8,1
+"2289","Total  Air Lines",1,2,1
+"2290","Touraine Air Transport",1,8,1
+"2291","TPI International Airways",1,3,1
+"2292","Tracep",1,17,1
+"2293","Trade Wings Aviation Ltd.",1,3,1
+"2294","Trafik-Turist-Transportflyg",1,20,0.8
+"2295","Trans Air Services",1,3,0.09375
+"2296","Trans Alaska Helicopter - Air Taxi",1,2,1
+"2297","Trans Canada Air Lines / RCAF",1,36,1
+"2298","Trans Caribbean Airways",1,2,0.0363636363636364
+"2299","Trans Colorado AL / Continental Express",1,9,0.529411764705882
+"2300","Trans International Airlines",1,11,1
+"2301","Trans Isle Air",1,1,0.0769230769230769
+"2302","Trans Luxury Airlines",1,2,0.08
+"2303","Trans National Airlines",1,3,1
+"2304","Trans World Airlines / Castleton Inc.",1,15,1
+"2305","Trans World Airlines / Eastern Air Lines",1,4,0.0357142857142857
+"2306","Trans-Canada Air Lines",1,5,1
+"2307","Trans-Luxury Airlines",1,21,0.954545454545455
+"2308","Transafrik - United Nations Charter",1,9,1
+"2309","Transair",1,32,1
+"2310","Transamazonica",1,4,0.444444444444444
+"2311","Transamerican Air Transport",1,10,1
+"2312","Transamerican Airlines",1,1,1
+"2313","Transaven",1,18,1
+"2314","Transaviaexport Airlines",1,11,1
+"2315","Transcontinental",1,24,0.685714285714286
+"2316","Transfair",1,2,1
+"2317","Transmandu",1,1,0.5
+"2318","Transmeridian Air Cargo",1,4,1
+"2319","Transniugini Airways",1,2,1
+"2320","Transoriente Colombia",1,7,0.241379310344828
+"2321","Transpolar",1,5,1
+"2322","Transport Aerien Intercontinentaux (France)",1,52,0.8125
+"2323","Transport Arien Transregional",1,23,1
+"2324","Transport Comp. Algerienne de T.A.",1,9,1
+"2325","Transporte Aereo Federal",1,20,1
+"2326","Transported Areos Profesionales - TAPSA",1,16,1
+"2327","Transportes Aí©reos de Timor",1,9,1
+"2328","Transportes Aí©reos Itenez",1,6,1
+"2329","Transportes Aí©reos Salvador",1,14,1
+"2330","Transportes Aereos del Caribe",1,70,1
+"2331","Transportes Aereos Don Carlos - Charter",1,10,1
+"2332","Transportes Aereos Mexicanos",1,3,1
+"2333","Transportes Aereos Nacionales",1,19,1
+"2334","Transportes Aereos Orientales",1,3,0.214285714285714
+"2335","Transportes Aereos Pegaso",1,14,1
+"2336","Transportes Aereos Peruanas",1,12,1
+"2337","Transportes Areos Nacionales",1,24,1
+"2338","Transportno Aviatsionno Bulgaro-Soviet Obshchestvo",1,82,1
+"2339","Transports Aí©riens de la Guinee-Bissau",1,3,1
+"2340","Transporturile Aeriene Romane (TAROM)",1,60,1
+"2341","Transporturile Aeriene Romano-Sovietice",1,3,1
+"2342","Transworld Safaris",1,3,1
+"2343","Travel Air Flug",1,2,0.5
+"2344","TriCoastal Air",1,1,1
+"2345","Trillium Air",1,1,0.333333333333333
+"2346","TropiAir - Air Taxi",1,8,1
+"2347","Tropical Airways",1,21,1
+"2348","TsAGI",1,13,0.684210526315789
+"2349","Tulakes Aviaiton - Air Taxi",1,2,0.333333333333333
+"2350","Tuninter",1,16,0.41025641025641
+"2351","Tura Air Enterprise",1,9,1
+"2352","Turkish Airlines",1,9,0.0671641791044776
+"2353","Two Taxi Aero",1,2,1
+"2354","Tyee Airlines - Air Taxi",1,5,1
+"2355","Tyumen Aviatrans",1,5,0.147058823529412
+"2356","U. S. Air Force",1,19,1
+"2357","U.S. Government (leased)",1,2,0.125
+"2358","U.S. Overseas Airways",1,2,0.666666666666667
+"2359","Uganda Airlines",1,33,0.634615384615385
+"2360","Ukraine Aviation Transport Company",1,10,1
+"2361","Ukrainian Cargo Airlines -  Congolese Army Charter",1,129,0.645
+"2362","Ukranian-Mediterranean Airlines",1,75,1
+"2363","Ukvozduchput",1,1,1
+"2364","Uni Air",1,1,0.0104166666666667
+"2365","Union Aí©romaritime de Transport",1,3,1
+"2366","Union des Transports Aeriens de Guinee",1,140,0.869565217391304
+"2367","Union Flights",1,1,1
+"2368","United Air Lines / Military - U.S. Air Force",1,49,1
+"2369","United Air Services",1,3,0.75
+"2370","United Airways of New Zealand",1,2,1
+"2371","United Express",1,6,1
+"2372","United Express  / Private",1,14,1
+"2373","United Nations -  UTair Charter",1,24,1
+"2374","United Nations Mission",1,10,1
+"2375","United Nations Organization",1,16,1
+"2376","Universal Airways",1,8,1
+"2377","University of Michigan Health System",1,6,1
+"2378","Uralex",1,3,0.0909090909090909
+"2379","Urcupina",1,7,1
+"2380","Uruguayan Air Force - TAMU",1,29,0.644444444444444
+"2381","US Air Express/Air Midwest",1,21,1
+"2382","US Airlines",1,2,1
+"2383","US Airways",1,0,0
+"2384","US Airways Express",1,2,1
+"2385","USA Jet Airlines",1,1,0.5
+"2386","USAir / Skywest Airlilnes",1,34,0.343434343434343
+"2387","UTAir Airlines",1,6,0.105263157894737
+"2388","Utility Helocopter - Air Taxi",1,5,1
+"2389","Uzbek Civil Aviation Administration",1,34,0.53968253968254
+"2390","Uzu Air",1,3,0.75
+"2391","Valley Air Service",1,10,1
+"2392","Valley Air Service - Air Taxi",1,6,1
+"2393","Varney Airlines",1,3,1
+"2394","VASP / Private",1,26,1
+"2395","Vehu Akat",1,16,1
+"2396","Venezolana",1,3,0.142857142857143
+"2397","Venezolana Internacional de Aviacion",1,84,1
+"2398","Venezuelian Government",1,7,1
+"2399","Vercoa Air Service - Air Taxi",1,2,1
+"2400","Viaí_ao Cometa",1,2,1
+"2401","Viacao Aerea Gaucha S.A.",1,12,1
+"2402","VIARCO",1,9,1
+"2403","Vickers",1,3,1
+"2404","Victoria Airlines",1,4,0.363636363636364
+"2405","Viking Air Service - Air Taxi",1,3,1
+"2406","Viking Air Transport",1,27,1
+"2407","Viking Airways - Air Taxi",1,2,1
+"2408","Village Airways",1,4,1
+"2409","Village Aviation - Air Taxi",1,2,0.285714285714286
+"2410","Vincent Aviation",1,5,0.5
+"2411","Virgin Islands Airways",1,8,0.666666666666667
+"2412","Vladivostokavia",1,145,1
+"2413","Vnokovo Airlines",1,141,1
+"2414","Vnukovo Airlines",1,3,0.0172413793103448
+"2415","Volare Aviation Enterprise",1,8,1
+"2416","Volga Air",1,12,1
+"2417","Volga-Avia Express",1,41,1
+"2418","Volga-Dnepr Airlines",1,8,1
+"2419","Vologodskiye Airlines",1,9,1
+"2420","Vostok Aviakompania",1,16,1
+"2421","VOTEC / VOTEC",1,19,0.542857142857143
+"2422","Walker - Watts Aviation - Air Taxi",1,4,1
+"2423","Warsaw Aviation - Taxi",1,6,1
+"2424","Wasa Wings",1,6,0.5
+"2425","Wasaya Airways",1,8,1
+"2426","Wayumi Air Taxi",1,4,1
+"2427","Weasua Airtransport",1,2,0.2
+"2428","Webber Air - Air Taxi",1,12,1
+"2429","Webber Airlines -Air Taxi",1,5,0.625
+"2430","Webstas Aviation Services Inc.",1,3,1
+"2431","Wedell-Williams Air Service Corporation",1,2,1
+"2432","Wehite Cap Aviation",1,6,1
+"2433","Wein Alaska Airlines Inc.",1,2,1
+"2434","Wenela Air Services",1,78,0.928571428571429
+"2435","West African Airways",1,13,1
+"2436","West Air",1,1,1
+"2437","West Australian Airways",1,3,1
+"2438","West Aviation",1,3,0.3
+"2439","West Coast Air",1,2,0.125
+"2440","Westair Transport",1,28,0.430769230769231
+"2441","Western Helicopter",1,0,0
+"2442","Western Straits Air",1,8,0.8
+"2443","Westwing",1,5,0.833333333333333
+"2444","Wheeler Airlines",1,5,1
+"2445","Whyalla Airlines",1,8,1
+"2446","Wicks Flying Service - Air Taxi",1,4,1
+"2447","Wien Air Alaska",1,10,0.3125
+"2448","Wien Alaska Airlines",1,5,0.833333333333333
+"2449","Wigmo",1,45,1
+"2450","Willow Air Service - Air Taxi",1,3,1
+"2451","Wilson Airways",1,3,1
+"2452","Wimbi Dira Airways",1,2,0.02
+"2453","Win Win Aviation",1,1,0.333333333333333
+"2454","Winchester Air",1,5,1
+"2455","Winged Cargo Inc.",1,7,1
+"2456","Wings West Airlines / Private",1,17,1
+"2457","Winship Air",1,6,1
+"2458","Winship Air Service",1,6,1
+"2459","Winship Air Service - Air Taxi",1,2,0.4
+"2460","Wrangell Air Service",1,1,0.1
+"2461","Wright Air Service - Air Taxi",1,3,1
+"2462","Wyman Pilot Service - Air Taxi",1,2,1
+"2463","Wyoming Air Service",1,1,1
+"2464","XL Airways leased from Air New Zealand",1,7,1
+"2465","Yacimientos Petroliferos Fiscales",1,34,1
+"2466","Yates Aviation",1,1,1
+"2467","YPF",1,7,1
+"2468","YPFB Transportes Aereos",1,14,0.875
+"2469","Yug Avia",1,4,0.8
+"2470","Zakavia",1,5,1
+"2471","Zanex",1,1,0.1
+"2472","Zantop Airways",1,2,1
+"2473","Zantop International Airlines",1,4,1
+"2474","Zen Nippon",1,2,1
