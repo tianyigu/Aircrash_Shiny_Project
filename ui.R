@@ -10,7 +10,7 @@ shinyUI(
 
   navbarPage(
 
-
+########## main page ###########
     title = "Aircrash Insight", 
              
     id ="main",
@@ -42,6 +42,10 @@ shinyUI(
                
                
              )),
+########## main page ###########
+
+
+########## Time Line ###########
     tabPanel("Time Line",
              fluidRow(
                column(8,plotOutput('year')),
@@ -55,7 +59,11 @@ shinyUI(
                column(8,plotOutput('grotime')),
                column(4,br(),br(),br(),h5("Number of aircrash are distinguish by day and night. Again, due to data limitation, we can't conclude at what time it has higer accident rate, but death rate during night is higher than during day"))
              )),
-                            
+
+########## Time Line  ########### 
+
+
+########## Airplane Type ###########                            
     tabPanel("Airplane Type",              
 
               fluidRow(
@@ -85,7 +93,10 @@ shinyUI(
                           
     
       )),
-    
+########## Airplane Type ########### 
+
+
+########## Airlines ########### 
     tabPanel("Airlines",              
              fluidRow(
                plotlyOutput(outputId = "operate", width=1700, height =1200),br(),
@@ -107,7 +118,11 @@ shinyUI(
     
     ))
   ),
-  
+
+########## Airlines ########### 
+
+
+########## Accident Report ########### 
   tabPanel("Accident Report",
            fluidRow(
              column(3,br()),
@@ -117,7 +132,9 @@ shinyUI(
            fluidRow(
              wordcloud2Output(outputId = "word", width=1200, height =800)
              )),
-  
+########## Accident Report ########### 
+
+########## data ########### 
     tabPanel("Data", 
              fluidRow(
                column(12,
@@ -125,7 +142,7 @@ shinyUI(
   
   ))
   
-
+########## data ########### 
 
 
 

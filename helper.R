@@ -1,5 +1,3 @@
-
-
 library('dplyr')
 library('tidyr')
 library('ggplot2')
@@ -18,7 +16,7 @@ word_cloud = read.csv("wordcount.csv")
 data = data[!is.na(data$Fatalities) &!is.na(data$Aboard), ]
 data = data %>% mutate(death_ratio = Fatalities/Aboard)
 
-############time###############
+############time line###############
 data_date = data[!(data$Time == ""),]
 data_date$Time= as.character(data_date$Time)
 # covert Time from xx:xx to xx
@@ -34,7 +32,7 @@ time=data_date
 time$Time = as.integer(time$Time)
 grotime = summarise(time %>% group_by(Time),count = n(),Fatal = sum(Fatalities),Ratio = sum(Fatalities)/sum(Aboard))
 grotime = grotime[grotime$Time <25 & grotime$Time >= 0 & !is.na(grotime$Time),]
-##############time##############
+##############time line##############
 
 ##############date##############
 #options("scipen"=100, "digits"=4)
@@ -75,9 +73,11 @@ pl1 = ggplot(date, aes(x=Date)) +
 pl2 = ggplot(grodate2, aes(x=gr, y = Fatal)) + 
   geom_histogram(binwidth = 0.25, color="#8A958F", fill=rgb(0.2,0.7,0.1,0.4),stat = "identity" )+ 
   geom_line(aes(y = Ratio*20000),color="#ECB082",size = 1)+ scale_y_continuous(sec.axis = sec_axis(~./20000, name = "Death Ratio"))
-#########made########
+##############date##############
+
+#########airplane made########
 made = date %>% mutate(made = ifelse(grepl("Boeing", date$Type),"Boeing",ifelse(grepl("Airbus", date$Type),"Airbus",ifelse(grepl("Cessna", date$Type),'Cessna',ifelse(grepl("Embraer", date$Type),'Embraer',ifelse(grepl("Tupoloev", date$Type),'Tupoloev',ifelse(grepl("BAe", date$Type),'BAe',ifelse(grepl("Douglas", date$Type),'Douglas',ifelse(grepl("Antonov", date$Type),'Antonov',ifelse(grepl("de Havilland", date$Type),'de Havilland',ifelse(grepl("CRJ", date$Type),'CRJ',"Others")))))))))))
 made1 = made[!made$made == "Others",]
-
+#########airplane made########
 
 

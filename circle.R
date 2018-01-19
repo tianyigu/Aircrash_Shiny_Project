@@ -5,7 +5,7 @@ df <- read.csv("gro_noarm.csv", stringsAsFactors = F)
 df$Ratio[99]
 df = df[!df$X==99,]
 
-# Show only 2011 values
+
 
 # Arrange in increasing order of ratio
 df <- df %>% dplyr::arrange(count)
